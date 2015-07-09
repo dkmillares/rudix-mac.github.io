@@ -1,0 +1,7 @@
+{"description": "DASH is a POSIX-compliant implementation of /bin/sh that aims to be as small as possible",
+ "license": "BSD",
+ "name": "dash",
+ "site": "http://gondor.apana.org.au/~herbert/dash/",
+ "title": "DASH",
+ "usage": "/usr/local/bin/dash\nman dash",
+ "version": "0.5.8"}

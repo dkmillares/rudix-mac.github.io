@@ -1,0 +1,7 @@
+{"description": "Python Imaging Library (PIL)",
+ "license": "BSD",
+ "name": "python-pil",
+ "site": "http://www.pythonware.com/products/pil/",
+ "title": "Python Imaging Library",
+ "usage": "pydoc pil",
+ "version": "1.1.7"}

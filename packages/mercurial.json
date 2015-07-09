@@ -1,0 +1,7 @@
+{"description": "Mercurial is a free, distributed source control management tool",
+ "license": "GPL",
+ "name": "mercurial",
+ "site": "http://mercurial.selenic.com/",
+ "title": "Mercurial",
+ "usage": "hg --help",
+ "version": "2.9.2"}

@@ -1,0 +1,7 @@
+{"description": "Jython is an implementation of Python for the JVM",
+ "license": "Python License",
+ "name": "jython",
+ "site": "http://www.jython.org/",
+ "title": "Jython",
+ "usage": "/usr/local/bin/jython",
+ "version": "2.7"}

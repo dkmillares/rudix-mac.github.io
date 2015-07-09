@@ -1,0 +1,7 @@
+{"description": "Given an Augmented Backus-Naur form (ABNF) grammar (Wikipedia, RFC 4234), abnfgen quickly generates lots of random documents that match that grammar",
+ "license": "while copyrighted, free for any use",
+ "name": "abnfgen",
+ "site": "http://www.quut.com/abnfgen/",
+ "title": "abnfgen",
+ "usage": "abnfgen",
+ "version": "0.16"}

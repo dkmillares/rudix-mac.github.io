@@ -1,0 +1,7 @@
+{"description": "LibTorrent is a BitTorrent library written in C++ with a focus on high performance and good code",
+ "license": "GPL",
+ "name": "libtorrent",
+ "site": "http://libtorrent.rakshasa.no/",
+ "title": "libTorrent",
+ "usage": "open /usr/local/share/doc/libtorrent",
+ "version": "0.13.2"}

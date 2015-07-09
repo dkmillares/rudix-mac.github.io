@@ -1,0 +1,7 @@
+{"description": "Unison File Synchronizer",
+ "license": "GPL",
+ "name": "unison",
+ "site": "http://www.cis.upenn.edu/~bcpierce/unison/",
+ "title": "Unison File Synchronizer",
+ "usage": "/usr/local/bin/unison",
+ "version": "2.40.102"}

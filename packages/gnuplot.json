@@ -1,0 +1,7 @@
+{"description": "Gnuplot is a portable command-line driven graphing utility",
+ "license": "GPL",
+ "name": "gnuplot",
+ "site": "http://www.gnuplot.info/",
+ "title": "Gnuplot",
+ "usage": "/usr/local/bin/gnuplot",
+ "version": "4.6.3"}

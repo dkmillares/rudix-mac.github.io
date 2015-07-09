@@ -1,0 +1,7 @@
+{"description": "Security, speed, compliance, and flexibility - all of these describe lighttpd (pron. lighty) which is rapidly redefining efficiency of a webserver",
+ "license": "BSD",
+ "name": "lighttpd",
+ "site": "http://www.lighttpd.net",
+ "title": "Lighttpd",
+ "usage": "/usr/local/bin/lighttpd",
+ "version": "1.4.35"}

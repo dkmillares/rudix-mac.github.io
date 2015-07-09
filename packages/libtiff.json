@@ -1,0 +1,7 @@
+{"description": "TIFF Library and Utilities",
+ "license": "BSD",
+ "name": "libtiff",
+ "site": "http://www.libtiff.org/",
+ "title": "LibTIFF",
+ "usage": "open /usr/local/share/doc/libtiff",
+ "version": "4.0.3"}

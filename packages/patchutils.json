@@ -1,0 +1,7 @@
+{"description": "Patchutils contains a collection of tools for manipulating patch files",
+ "license": "GPL",
+ "name": "patchutils",
+ "site": "http://freecode.com/projects/patchutils/",
+ "title": "Patch utilities",
+ "usage": "open /usr/local/share/doc/patchutils",
+ "version": "0.3.4"}

@@ -1,0 +1,8 @@
+{"description": "Requests: HTTP for Humans",
+ "license": "Apache License",
+ "name": "python-requests",
+ "site": "http://python-requests.org",
+ "title": "Python HTTP Requests",
+ "usage": "pydoc requests",
+ "notes": "Featuring version 2.3.0",
+ "version": "2.3.0"}

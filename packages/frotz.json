@@ -1,0 +1,7 @@
+{"description": "A Portable Z-Machine Interpreter",
+ "license": "GPL",
+ "name": "frotz",
+ "site": "http://frotz.sourceforge.net/",
+ "title": "Frotz",
+ "usage": "frotz --help",
+ "version": "2.43"}

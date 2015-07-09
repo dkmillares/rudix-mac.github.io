@@ -1,0 +1,7 @@
+{"description": "Ack!",
+ "license": "Artistic License",
+ "name": "ack",
+ "site": "http://beyondgrep.com/",
+ "title": "Ack!",
+ "usage": "/usr/local/bin/ack --help",
+ "version": "2.14"}

@@ -1,0 +1,7 @@
+{"description": "OfflineIMAP is a tool to simplify your e-mail reading",
+ "license": "GPL",
+ "name": "offlineimap",
+ "site": "http://offlineimap.org/",
+ "title": "Offline IMAP",
+ "usage": "/usr/local/bin/offlineimap --help",
+ "version": "6.5.6"}

@@ -1,0 +1,7 @@
+{"description": "Nettle is a low-level cryptographic library",
+ "license": "LGPL",
+ "name": "nettle",
+ "site": "http://www.lysator.liu.se/~nisse/nettle/",
+ "title": "Nettle (low-level crypto library)",
+ "usage": "open /usr/local/share/doc/nettle",
+ "version": "3.0"}

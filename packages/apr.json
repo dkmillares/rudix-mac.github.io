@@ -1,0 +1,7 @@
+{"description": "Apache Portable Runtime",
+ "license": "Apache License",
+ "name": "apr",
+ "site": "http://apr.apache.org/",
+ "title": "Apache Portable Runtime",
+ "usage": "/usr/local/bin/apr-config",
+ "version": "1.4.6"}

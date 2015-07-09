@@ -1,0 +1,7 @@
+{"description": "Rudix Package Manager - RPM ;)",
+ "license": "BSD",
+ "name": "rudix",
+ "site": "http://rudix.org/",
+ "title": "Rudix Package Manager",
+ "usage": "rudix help",
+ "version": "2015.6.1"}

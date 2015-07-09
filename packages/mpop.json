@@ -1,0 +1,7 @@
+{"description": "mpop is a POP3 client, it retrieves mail from POP3 mailboxes",
+ "license": "GPL",
+ "name": "mpop",
+ "site": "http://mpop.sourceforge.net/",
+ "title": "mpop",
+ "usage": "/usr/local/bin/mpop",
+ "version": "1.0.28"}

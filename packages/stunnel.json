@@ -1,0 +1,7 @@
+{"description": "Stunnel - multiplatform SSL tunneling proxy",
+ "license": "GPL",
+ "name": "stunnel",
+ "site": "http://www.stunnel.org/",
+ "title": "Stunnel",
+ "usage": "stunnel -help",
+ "version": "5.01"}

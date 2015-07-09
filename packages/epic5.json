@@ -1,0 +1,7 @@
+{"description": "EPIC is an IRC client for UNIX-like systems",
+ "license": "BSD",
+ "name": "epic5",
+ "site": "http://epicsol.org/",
+ "title": "EPIC5",
+ "usage": "/usr/local/bin/epic5",
+ "version": "1.1.10"}

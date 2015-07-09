@@ -1,0 +1,7 @@
+{"description": "libpipeline is a C library for manipulating pipelines of subprocesses in a flexible and convenient way",
+ "license": "GPL",
+ "name": "libpipeline",
+ "site": "http://www.nongnu.org/libpipeline/",
+ "title": "Libpipeline",
+ "usage": "open /usr/local/share/doc/libpipeline",
+ "version": "1.4.0"}

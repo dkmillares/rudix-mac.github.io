@@ -1,0 +1,7 @@
+{"description": "GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications",
+ "license": "GPL+LGPL",
+ "name": "libidn",
+ "site": "http://www.gnu.org/software/libidn/",
+ "title": "GNU IDN Library",
+ "usage": "info libidn",
+ "version": "1.28"}

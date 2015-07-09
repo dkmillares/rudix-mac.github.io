@@ -1,0 +1,7 @@
+{"description": "Clojure is a dynamic programming language that targets the Java Virtual Machine",
+ "license": "Eclipse Public License",
+ "name": "clojure",
+ "site": "http://clojure.org/",
+ "title": "Clojure",
+ "usage": "/usr/local/bin/clojure",
+ "version": "1.5.1"}

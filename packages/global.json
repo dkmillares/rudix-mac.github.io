@@ -1,0 +1,7 @@
+{"description": "Source code tag system that works the same way across diverse environments",
+ "license": "GPL",
+ "name": "global",
+ "site": "https://www.gnu.org/software/global/",
+ "title": "GNU Global",
+ "usage": "/usr/local/bin/global",
+ "version": "6.3.2"}

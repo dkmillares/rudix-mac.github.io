@@ -1,0 +1,7 @@
+{"description": "Powerful but simple template language for C++",
+ "license": "BSD",
+ "name": "ctemplate",
+ "site": "http://code.google.com/p/google-ctemplate/",
+ "title": "CTemplate",
+ "usage": "open /usr/local/share/doc/ctemplate",
+ "version": "2.2"}

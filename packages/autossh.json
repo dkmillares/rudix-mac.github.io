@@ -1,0 +1,7 @@
+{"description": "autossh is a program to start a copy of ssh and monitor it, restarting it as necessary should it die or stop passing traffic. The idea is from rstunnel (Reliable SSH Tunnel), but implemented in C",
+ "license": "Unknown (Freeware)",
+ "name": "autossh",
+ "site": "http://www.harding.motd.ca/autossh/",
+ "title": "autossh",
+ "usage": "/usr/local/bin/autossh --help",
+ "version": "1.4d"}

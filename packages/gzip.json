@@ -1,0 +1,7 @@
+{"description": "GNU Gzip is a popular data compression program originally written by Jean-loup Gailly for the GNU project",
+ "license": "GPL",
+ "name": "gzip",
+ "site": "http://www.gnu.org/software/gzip/",
+ "title": "GNU Gzip",
+ "usage": "/usr/local/bin/gzip",
+ "version": "1.6"}

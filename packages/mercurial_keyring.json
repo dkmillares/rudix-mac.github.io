@@ -1,0 +1,7 @@
+{"description": "Mercurial Keyring is a Mercurial extension used to securely save authentication passwords in password databases",
+ "license": "GPL",
+ "name": "mercurial_keyring",
+ "site": "http://pypi.python.org/pypi/mercurial_keyring",
+ "title": "Mercurial Keyring Extension",
+ "usage": "open /usr/local/share/doc/mercurial_keyring",
+ "version": "0.5.7"}

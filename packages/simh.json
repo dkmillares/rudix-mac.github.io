@@ -1,0 +1,7 @@
+{"description": "SIMH is a highly portable, multi-system simulator",
+ "license": "MIT",
+ "name": "simh",
+ "site": "http://simh.trailing-edge.com/",
+ "title": "SIMH",
+ "usage": "/usr/local/bin/simh",
+ "version": "3.9"}

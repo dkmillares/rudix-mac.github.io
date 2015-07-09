@@ -1,0 +1,7 @@
+{"description": "Python toolkit for generation of output for the web",
+ "license": "BSD",
+ "name": "genshi",
+ "site": "http://genshi.edgewall.org",
+ "title": "Genshi (Python Module)",
+ "usage": "/usr/local/bin/genshi",
+ "version": "0.7"}

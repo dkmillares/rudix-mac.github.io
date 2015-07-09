@@ -1,0 +1,7 @@
+{"description": "NCurses Disk Usage",
+ "license": "MIT",
+ "name": "ncdu",
+ "site": "http://dev.yorhel.nl/ncdu",
+ "title": "NCurses Disk Usage",
+ "usage": "ncdu -h",
+ "version": "1.10"}

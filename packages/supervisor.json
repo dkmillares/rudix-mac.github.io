@@ -1,0 +1,7 @@
+{"description": "Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems",
+ "license": "BSD Like",
+ "name": "supervisor",
+ "site": "http://supervisord.org/index.html",
+ "title": "Supervisor",
+ "usage": "/usr/local/bin/supervisorctl -h",
+ "version": "3.0b2"}

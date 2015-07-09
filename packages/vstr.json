@@ -1,0 +1,7 @@
+{"description": "Vstr is a string library, it's designed so you can work optimally with readv()/writev() for input/output",
+ "license": "LGPL",
+ "name": "vstr",
+ "site": "http://www.and.org/vstr/",
+ "title": "Vstr",
+ "usage": "open /usr/local/share/doc/vstr",
+ "version": "1.0.15"}

@@ -1,0 +1,7 @@
+{"description": "Irssi is a terminal based IRC client for UNIX systems",
+ "license": "GPL",
+ "name": "irssi",
+ "site": "http://irssi.org/",
+ "title": "Irssi",
+ "usage": "/usr/local/bin/irssi --help",
+ "version": "0.8.17"}

@@ -1,0 +1,7 @@
+{"description": "MOST is a powerful paging program for Unix",
+ "name": "most",
+ "site": "http://www.jedsoft.org/most/",
+ "title": "MOST",
+ "usage": "/usr/local/bin/most",
+ "license": "GPL",
+ "version": "5.0.0"}

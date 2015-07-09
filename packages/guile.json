@@ -1,0 +1,7 @@
+{"description": "Guile is the GNU Ubiquitous Intelligent Language for Extensions, the official extension language for the GNU operating system",
+ "license": "LGPL",
+ "name": "guile",
+ "site": "http://www.gnu.org/software/guile/",
+ "title": "GNU Guile",
+ "usage": "guile",
+ "version": "1.8.8"}

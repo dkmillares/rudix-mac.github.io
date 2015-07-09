@@ -1,0 +1,7 @@
+{"description": "Popular HTML, CSS, and JS framework for projects on the web",
+ "license": "MIT",
+ "name": "bootstrap",
+ "site": "http://getbootstrap.com",
+ "title": "Bootstrap",
+ "usage": "/usr/local/share/bootstrap",
+ "version": "3.3.4"}

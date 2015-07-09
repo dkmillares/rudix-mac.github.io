@@ -1,0 +1,7 @@
+{"description": "The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance",
+ "license": "Apache License",
+ "name": "cassandra",
+ "site": "http://cassandra.apache.org/",
+ "title": "Apache Cassandra",
+ "usage": "/usr/local/bin/cassandra -f",
+ "version": "1.2.3"}

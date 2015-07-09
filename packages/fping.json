@@ -1,0 +1,7 @@
+{"description": "Fping is a program to send ICMP echo probes to network hosts, similar to ping",
+ "license": "BSD?",
+ "name": "fping",
+ "site": "http://fping.org",
+ "title": "Fping",
+ "usage": "/usr/local/bin/fping -C 10 rudix.org",
+ "version": "3.10"}

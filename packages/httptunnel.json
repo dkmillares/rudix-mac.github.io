@@ -1,0 +1,7 @@
+{"description": "httptunnel creates a bidirectional virtual data connection tunnelled in HTTP requests",
+ "license": "GPL",
+ "name": "httptunnel",
+ "site": "http://www.nocrew.org/software/httptunnel/",
+ "title": "Httptunnel",
+ "usage": "/usr/local/bin/htc\n/usr/local/bin/hts",
+ "version": "3.3"}

@@ -1,0 +1,8 @@
+{"description": "Lynx is the text web browser",
+ "license": "GPL",
+ "name": "lynx",
+ "site": "http://lynx.isc.org",
+ "title": "Lynx",
+ "usage": "lynx http://rudix.org",
+ "notes": ["Upgraded to version 2.8.9dev.5"],
+ "version": "2.8.9"}

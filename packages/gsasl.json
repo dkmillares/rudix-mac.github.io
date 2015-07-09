@@ -1,0 +1,7 @@
+{"description": "GNU SASL is an implementation of the Simple Authentication and Security Layer framework and a few common SASL mechanisms",
+ "license": "GPL",
+ "name": "gsasl",
+ "site": "http://www.gnu.org/software/gsasl/",
+ "title": "GNU SASL",
+ "usage": "open /usr/local/share/doc/gsasl",
+ "version": "1.8.0"}

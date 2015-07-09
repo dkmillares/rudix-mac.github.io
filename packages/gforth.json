@@ -1,0 +1,7 @@
+{"description": "Gforth is a fast and portable implementation of the ANS Forth language",
+ "license": "GPL",
+ "name": "gforth",
+ "site": "http://www.gnu.org/software/gforth/",
+ "title": "Gforh",
+ "usage": "/usr/local/bin/gforth",
+ "version": "0.7.2"}

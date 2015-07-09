@@ -1,0 +1,7 @@
+{"description": "Dovecot (Secure Imap Server)",
+ "license": "MIT+LGPL",
+ "name": "dovecot",
+ "site": "http://dovecot.org/",
+ "title": "Dovecot (Secure IMAP server)",
+ "usage": "/usr/local/sbin/dovecot",
+ "version": "2.2.15"}

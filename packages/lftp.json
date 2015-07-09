@@ -1,0 +1,7 @@
+{"description": "LFTP is sophisticated ftp/http client, file transfer program supporting a number of network protocols",
+ "license": "GPL",
+ "name": "lftp",
+ "site": "http://lftp.yar.ru/",
+ "title": "LFTP",
+ "usage": "/usr/local/bin/lftp",
+ "version": "4.6.0"}

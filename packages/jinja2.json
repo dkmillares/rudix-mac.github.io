@@ -1,0 +1,7 @@
+{"description": "jinja2 is a full featured template engine for Python. It has full unicode support, an optional integrated sandboxed execution environment",
+ "license": "BSD",
+ "name": "jinja2",
+ "site": "http://jinja.pocoo.org",
+ "title": "Jinja2 (Template engine for Python)",
+ "usage": "/usr/local/bin/jinja2",
+ "version": "2.7"}

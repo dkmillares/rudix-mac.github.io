@@ -1,0 +1,7 @@
+{"description": "libzip is a C library for reading, creating, and modifying zip archives",
+ "license": "BSD",
+ "name": "libzip",
+ "site": "http://nih.at/libzip/",
+ "title": "libzip",
+ "usage": "libzip --help",
+ "version": "0.10.1"}

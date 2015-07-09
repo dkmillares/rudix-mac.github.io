@@ -1,0 +1,8 @@
+{"description": "SCons is an Open Source software construction tool",
+ "license": "MIT",
+ "name": "scons",
+ "revision": "0",
+ "site": "http://www.scons.org/",
+ "title": "SCons",
+ "usage": "scons --help",
+ "version": "2.3.1"}

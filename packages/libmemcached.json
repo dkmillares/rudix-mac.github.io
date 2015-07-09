@@ -1,0 +1,7 @@
+{"description": "libMemcached is designed to provide the greatest number of options to use Memcached",
+ "license": "BSD",
+ "name": "libmemcached",
+ "site": "http://libmemcached.org/",
+ "title": "libMemcached",
+ "usage": "open /usr/local/share/doc/libmemcached",
+ "version": "1.0.18"}

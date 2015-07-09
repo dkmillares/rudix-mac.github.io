@@ -1,0 +1,7 @@
+{"description": "Little CMS intends to be an OPEN SOURCE small-footprint color management engine",
+ "license": "MIT",
+ "name": "lcms",
+ "site": "http://www.littlecms.com/",
+ "title": "Little CMS",
+ "usage": "jpgicc\ntificc",
+ "version": "2.6"}

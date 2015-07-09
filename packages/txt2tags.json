@@ -1,0 +1,8 @@
+{"description": "Txt2tags is a document generator. It reads a text file with minimal markup and converts it to many formats",
+ "license": "GPL",
+ "name": "txt2tags",
+ "site": "http://txt2tags.org/",
+ "title": "txt2tags",
+ "usage": "/usr/local/bin/txt2tags --help",
+ "license": "GPL",
+ "version": "2.6"}

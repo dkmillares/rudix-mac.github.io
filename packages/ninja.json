@@ -1,0 +1,7 @@
+{"description": "Ninja is a small build system with a focus on speed",
+ "license": "Apache License",
+ "name": "ninja",
+ "site": "http://martine.github.com/ninja/",
+ "title": "Ninja Build System",
+ "usage": "ninja",
+ "version": "1.5.3"}

@@ -1,0 +1,7 @@
+{"description": "diff-backup backs up one directory to another, possibly over a network",
+ "license": "GPL",
+ "name": "rdiff-backup",
+ "site": "http://rdiff-backup.nongnu.org/",
+ "title": "Rdiff-backup",
+ "usage": "/usr/local/bin/rdiff-backup",
+ "version": "1.2.8"}

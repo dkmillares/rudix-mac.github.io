@@ -1,0 +1,7 @@
+{"description": "ELinks is an advanced and well-established feature-rich text mode web browser",
+ "license": "GPL",
+ "name": "elinks",
+ "site": "http://elinks.cz/",
+ "title": "ELinks",
+ "usage": "elinks",
+ "version": "0.13"}

@@ -1,0 +1,7 @@
+{ "name": "hunspell",
+  "title": "Hunspell",
+  "description": "Hunspell spell checker",
+  "site": "http://hunspell.sourceforge.net",
+  "license": "GPL",
+  "version": "1.3.3",
+  "usage": "hunspell --help"}

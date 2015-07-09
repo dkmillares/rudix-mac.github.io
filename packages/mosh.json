@@ -1,0 +1,7 @@
+{"description": "Remote terminal application",
+ "license": "GPL",
+ "name": "mosh",
+ "site": "http://mosh.mit.edu/",
+ "title": "Mobile Shell",
+ "usage": "/usr/local/bin/mosh",
+ "version": "1.2.4"}

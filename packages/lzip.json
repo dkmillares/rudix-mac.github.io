@@ -1,0 +1,7 @@
+{"description": "Lzip",
+ "license": "GPL",
+ "name": "lzip",
+ "site": "http://www.nongnu.org/lzip/",
+ "title": "Lzip",
+ "usage": "/usr/local/bin/lzip --help",
+ "version": "1.16"}

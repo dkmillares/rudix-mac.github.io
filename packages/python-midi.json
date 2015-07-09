@@ -1,0 +1,7 @@
+{"description": "Python MIDI library tries to offer a reasonable object granularity to make MIDI streams a painless thing to manipulate, sequence, record, and playback",
+ "license": "MIT",
+ "name": "python-midi",
+ "site": "https://github.com/vishnubob/python-midi",
+ "title": "Python MIDI library",
+ "usage": "pydoc midi",
+ "version": "0.2.3"}

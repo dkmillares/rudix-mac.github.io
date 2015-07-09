@@ -1,0 +1,7 @@
+{"description": "Libvorbis contains the Vorbis reference encoder and decoder",
+ "license": "BSD",
+ "name": "libvorbis",
+ "site": "http://www.xiph.org/vorbis/",
+ "title": "Libvorbis",
+ "usage": "open /usr/local/share/doc/libvorbis",
+ "version": "1.3.3"}

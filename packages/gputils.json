@@ -1,0 +1,7 @@
+{"description": "GPUTILS is a collection of tools for the Microchip (TM) PIC microcontrollers",
+ "license": "GPL",
+ "name": "gputils",
+ "site": "http://gputils.sourceforge.net",
+ "title": "GNU PIC Utilities",
+ "usage": "gpasm --help",
+ "version": "1.4.0"}

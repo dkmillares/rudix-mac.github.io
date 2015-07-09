@@ -1,0 +1,7 @@
+{"description": "The small, fast s-expression library",
+ "license": "LGPL",
+ "name": "sexpr",
+ "site": "http://sexpr.sourceforge.net/",
+ "title": "sfsexp",
+ "usage": "open /usr/local/share/doc/sexpr/",
+ "version": "1.2.1"}

@@ -1,0 +1,7 @@
+{"description": "SOund eXchange - universal sound sample translator",
+ "license": "GPL+LGPL",
+ "name": "sox",
+ "site": "http://sox.sourceforge.net/",
+ "title": "SoX",
+ "usage": "sox --help",
+ "version": "14.4.1"}

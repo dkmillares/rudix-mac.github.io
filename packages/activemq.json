@@ -1,0 +1,7 @@
+{"description": "Apache ActiveMQ is the most popular and powerful open source messaging and Integration Patterns server",
+ "license": "Apache",
+ "name": "activemq",
+ "site": "http://activemq.apache.org/",
+ "title": "Apache ActiveMQ",
+ "usage": "/usr/local/bin/activemq",
+ "version": "5.8.0"}

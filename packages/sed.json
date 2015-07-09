@@ -1,0 +1,8 @@
+{"description": "GNU Stream Editor",
+ "license": "GPL",
+ "name": "sed",
+ "revision": "0",
+ "site": "http://www.gnu.org/software/sed/",
+ "title": "GNU Sed",
+ "usage": "/usr/local/bin/sed",
+ "version": "4.2.2"}

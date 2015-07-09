@@ -1,0 +1,7 @@
+{"description": "Rust is a curly-brace, block-structured expression language",
+ "name": "rust",
+ "site": "http://www.rust-lang.org/",
+ "title": "Rust Language",
+ "usage": "rustc --help",
+ "version": "1.0.0",
+ "license": "MIT/Apache"}

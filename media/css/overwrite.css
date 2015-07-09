@@ -1,0 +1,12 @@
+body {  padding-top: 60px;
+        padding-bottom: 40px;
+	background: Snow;
+	font-size: 16px;
+	font-family: Helvetica Neue, Verdana, Helvetica; }
+h1, h2, h3, h4 { font-family: Helvetica Neue, Verdana, Helvetica; }
+pre, code { font-family: Monaco, Andale Mono, Monospace;
+            font-size: 14px; background: Snow; }
+
+.navbar-inner { background: DarkRed !important; }
+.navbar .nav .active > a,
+.navbar .nav .active > a:hover { background-color: IndianRed; }

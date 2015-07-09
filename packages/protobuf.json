@@ -1,0 +1,7 @@
+{"description": "Protocol Buffers are a way of encoding structured data in an efficient yet extensible format",
+ "license": "BSD",
+ "name": "protobuf",
+ "site": "https://developers.google.com/protocol-buffers/",
+ "title": "Protocol Buffers",
+ "usage": "/usr/local/bin/protoc",
+ "version": "2.6.1"}

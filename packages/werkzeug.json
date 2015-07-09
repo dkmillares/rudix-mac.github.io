@@ -1,0 +1,7 @@
+{"description": "Werkzeug (Wsgi Utils For Python)",
+ "license": "BSD",
+ "name": "werkzeug",
+ "site": "http://werkzeug.pocoo.org",
+ "title": "Werkzeug (WSGI utils for Python)",
+ "usage": "import -c \"import werkzeug\"\npydoc werkzeug",
+ "version": "0.9.1"}

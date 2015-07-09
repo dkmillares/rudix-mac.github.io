@@ -1,0 +1,7 @@
+{"description": "GNU datamash is a command-line program which performs basic numeric,textual and statistical operations on input textual data files",
+ "license": "GPL",
+ "name": "datamash",
+ "site": "https://www.gnu.org/software/datamash/",
+ "title": "GNU Datamash",
+ "usage": "/usr/local/bin/datamash",
+ "version": "1.0.6"}

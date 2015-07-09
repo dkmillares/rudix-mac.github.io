@@ -1,0 +1,7 @@
+{"description": "Colour-highlighted diff output",
+ "license": "GPL",
+ "name": "colordiff",
+ "site": "http://www.colordiff.org",
+ "title": "ColorDiff",
+ "usage": "/usr/local/bin/colordiff",
+ "version": "1.0.13"}

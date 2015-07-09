@@ -1,0 +1,7 @@
+{"description": "librsync is a free software library that implements the rsync remote-delta algorithm",
+ "license": "LGPL",
+ "name": "librsync",
+ "site": "http://librsync.sourceforge.net/",
+ "title": "Librsync",
+ "usage": "open /usr/local/share/doc/librsync",
+ "version": "0.9.7"}

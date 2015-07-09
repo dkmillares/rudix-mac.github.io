@@ -1,0 +1,7 @@
+{"description": "Bip is an IRC proxy, which means it keeps connected to your preferred IRC servers",
+ "license": "GPL",
+ "name": "bip",
+ "site": "http://bip.milkypond.org",
+ "title": "Bip",
+ "usage": "bip --help",
+ "version": "0.8.8"}

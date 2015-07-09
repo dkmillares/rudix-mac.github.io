@@ -1,0 +1,7 @@
+{"description": "Libdnet provides a simplified, portable interface to several low-level networking routines.",
+ "license": "BSD",
+ "name": "libdnet",
+ "site": "http://code.google.com/p/libdnet/",
+ "title": "Dumb Networking Library",
+ "usage": "man dnet",
+ "version": "1.12"}

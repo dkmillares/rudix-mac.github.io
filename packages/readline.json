@@ -1,0 +1,7 @@
+{"description": "The GNU Readline library provides a set of functions for use by applications that allow users to edit command lines as they are typed in",
+ "license": "GPL",
+ "name": "readline",
+ "site": "http://tiswww.case.edu/php/chet/readline/rltop.html",
+ "title": "GNU Readline",
+ "usage": "info readline",
+ "version": "6.3"}

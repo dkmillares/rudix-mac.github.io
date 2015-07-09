@@ -1,0 +1,7 @@
+{"description": "The Mutt E-Mail Client",
+ "license": "GPL",
+ "name": "mutt",
+ "site": "http://www.mutt.org/",
+ "title": "Mutt",
+ "usage": "/usr/local/bin/mutt",
+ "version": "1.5.23"}

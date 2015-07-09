@@ -1,0 +1,7 @@
+{"description": "GNU Make is a tool which controls the generation of executables and other non-source files of a program",
+ "license": "GPL",
+ "name": "make",
+ "site": "http://www.gnu.org/software/make/",
+ "title": "GNU Make",
+ "usage": "/usr/local/bin/gnumake --help",
+ "version": "4.0"}

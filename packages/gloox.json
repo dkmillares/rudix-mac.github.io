@@ -1,0 +1,7 @@
+{"description": "Full-featured Jabber/XMPP client library written in C++",
+ "license": "GPL",
+ "name": "gloox",
+ "site": "http://camaya.net/gloox",
+ "title": "Gloox",
+ "usage": "open /usr/local/share/doc/gloox",
+ "version": "1.0.3"}

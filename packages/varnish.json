@@ -1,0 +1,7 @@
+{"description": "Varnish Cache",
+ "license": "BSD",
+ "name": "varnish",
+ "site": "https://www.varnish-cache.org/",
+ "title": "Varnish Cache",
+ "usage": "/usr/local/bin/varnish",
+ "version": "3.0.3"}

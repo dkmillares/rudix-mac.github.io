@@ -1,0 +1,7 @@
+{"description": "lsh is a free implementation (in the GNU sense) of the ssh version 2 protocol",
+ "license": "GPL",
+ "name": "lsh",
+ "site": "http://www.lysator.liu.se/~nisse/lsh/",
+ "title": "LSH (Secure Shell)",
+ "usage": "/usr/local/bin/lsh",
+ "version": "2.1"}

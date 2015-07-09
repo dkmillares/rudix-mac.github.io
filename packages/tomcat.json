@@ -1,0 +1,7 @@
+{"description": "Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies",
+ "license": "Apache License",
+ "name": "tomcat",
+ "site": "http://tomcat.apache.org/",
+ "title": "Apache Tomcat",
+ "usage": "/usr/local/bin/tomcat",
+ "version": "7.0.42"}

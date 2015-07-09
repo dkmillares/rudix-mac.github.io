@@ -1,0 +1,7 @@
+{"description": "BitTorrent client for ncurses",
+ "license": "GPL",
+ "name": "rtorrent",
+ "site": "http://libtorrent.rakshasa.no/",
+ "title": "rTorrent",
+ "usage": "/usr/local/bin/rtorrent",
+ "version": "0.9.2"}

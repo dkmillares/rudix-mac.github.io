@@ -1,0 +1,11 @@
+{"description": "IPython provides a rich architecture for interactive computing",
+ "license": "BSD",
+ "name": "python-ipython",
+ "site": "http://ipython.org",
+ "title": "IPython",
+ "usage": "sudo rudix install python-ipython\nipython",
+ "notes": {"10.9": "Featuring version 2.1.0",
+           "10.8": "Featuring version 2.1.0",
+           "10.7": "Featuring version 2.1.0",
+           "10.6": "Featuring version 2.1.0"},
+ "version": "2.1.0"}

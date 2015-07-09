@@ -1,0 +1,7 @@
+{"description": "Valgrind",
+ "license": "GPL",
+ "name": "valgrind",
+ "site": "http://valgrind.org/",
+ "title": "Valgrind",
+ "usage": "/usr/local/bin/valgrind",
+ "version": "3.8.1"}

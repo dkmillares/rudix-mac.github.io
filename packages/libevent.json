@@ -1,0 +1,7 @@
+{"description": "Libevent is an event notification library",
+ "license": "BSD",
+ "name": "libevent",
+ "site": "http://libevent.org/",
+ "title": "Asynchronous Event Library",
+ "usage": "open /usr/local/share/doc/libevent/",
+ "version": "2.0.22"}

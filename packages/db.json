@@ -1,0 +1,7 @@
+{"description": "Oracle Berkeley DB 12c",
+ "license": "BSD",
+ "name": "db",
+ "site": "http://www.oracle.com/technetwork/products/berkeleydb/",
+ "title": "Berkeley DB",
+ "usage": "open /usr/local/share/doc/db",
+ "version": "6.0.20"}

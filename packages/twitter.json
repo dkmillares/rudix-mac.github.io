@@ -1,0 +1,7 @@
+{"description": "Python Twitter Tools",
+ "license": "MIT",
+ "name": "twitter",
+ "site": "http://mike.verdone.ca/twitter/",
+ "title": "Python Twitter Tools",
+ "usage": "/usr/local/bin/twitter",
+ "version": "1.10.0"}

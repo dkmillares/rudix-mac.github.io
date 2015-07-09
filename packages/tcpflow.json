@@ -1,0 +1,7 @@
+{"description": "tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging",
+ "license": "GPL",
+ "name": "tcpflow",
+ "site": "http://www.circlemud.org/jelson/software/tcpflow/",
+ "title": "TCP Flow Recorder",
+ "usage": "tcpflow",
+ "version": "0.21"}

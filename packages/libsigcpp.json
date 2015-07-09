@@ -1,0 +1,7 @@
+{"description": "Libsigc++ implements a typesafe callback system for standard C++",
+ "license": "LGPL",
+ "name": "libsigcpp",
+ "site": "http://libsigc.sourceforge.net/",
+ "title": "Libsigc++",
+ "usage": "open /usr/local/share/doc/libsigcpp",
+ "version": "2.2.10"}

@@ -1,0 +1,8 @@
+{"description": "GNU Tar provides the ability to create tar archives, as well as various other kinds of manipulation",
+ "license": "GPL",
+ "name": "tar",
+ "revision": "0",
+ "site": "http://www.gnu.org/software/tar/",
+ "title": "GNU Tar",
+ "usage": "gnutar --help",
+ "version": "1.27"}

@@ -1,0 +1,8 @@
+{"description": "The GNU gettext utilities are a set of tools that provides a framework to help produce multi-lingual messages",
+ "license": "GPL",
+ "name": "gettext",
+ "revision": "0",
+ "site": "http://www.gnu.org/software/gettext/",
+ "title": "GNU gettext",
+ "usage": "info gettext",
+ "version": "0.18.3.1"}

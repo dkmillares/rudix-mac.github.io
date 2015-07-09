@@ -1,0 +1,7 @@
+{"description": "SSLdump is an SSLv3/TLS network protocol analyzer",
+ "license": "BSD",
+ "name": "ssldump",
+ "site": "http://www.rtfm.com/ssldump/",
+ "title": "SSLdump",
+ "usage": "ssldump -h\nman ssldump",
+ "version": "0.9b3"}

@@ -1,0 +1,7 @@
+{"description": "PycURL is a Python interface to libcurl",
+ "license": "LGPL/MIT",
+ "name": "pycurl",
+ "site": "http://pycurl.sourceforge.net/",
+ "title": "PycURL",
+ "usage": "pydoc pycurl",
+ "version": "7.19.0"}

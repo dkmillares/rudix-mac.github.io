@@ -1,0 +1,9 @@
+{"description": "LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language",
+ "license": "MIT",
+ "name": "luajit",
+ "revision": "0",
+ "site": "http://luajit.org/",
+ "title": "LuaJIT",
+ "usage": "luajit",
+ "notes": "Upgraded to version 2.0.3",
+ "version": "2.0.3"}

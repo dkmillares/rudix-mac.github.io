@@ -1,0 +1,7 @@
+{"description": "libusb is a C library which gives applications easy access to USB devices on many different operating systems",
+ "license": "LGPL",
+ "name": "libusb",
+ "site": "http://www.libusb.org/",
+ "title": "Libusb",
+ "usage": "open /usr/local/share/doc/libusb",
+ "version": "1.0.9"}

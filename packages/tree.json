@@ -1,0 +1,7 @@
+{"description": "Tree is a recursive directory listing command that produces a depth indented listing of files, which is colorized ala dircolors",
+ "license": "GPLv2",
+ "name": "tree",
+ "site": "http://mama.indstate.edu/users/ice/tree/",
+ "title": "Tree",
+ "usage": "tree --help",
+ "version": "1.7.0"}

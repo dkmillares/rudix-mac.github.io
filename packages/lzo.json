@@ -1,0 +1,7 @@
+{"description": "LZO is a data compression library which is suitable for data de-/compression in real-time",
+ "license": "GPL",
+ "name": "lzo",
+ "site": "http://www.oberhumer.com/opensource/lzo/",
+ "title": "LZO",
+ "usage": "sudo rudix install lzo",
+ "version": "2.08"}

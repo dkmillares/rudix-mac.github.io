@@ -1,0 +1,7 @@
+{"description": "A comprehensive HTTP client library that supports many features left out of other HTTP libraries",
+ "license": "MIT",
+ "name": "httplib2",
+ "site": "http://code.google.com/p/httplib2/",
+ "title": "Python httplib2",
+ "usage": "pydoc httplib2",
+ "version": "0.7.7"}

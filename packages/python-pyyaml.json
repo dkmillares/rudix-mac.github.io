@@ -1,0 +1,8 @@
+{"description": "PyYAML is a YAML parser and emitter for Python",
+ "license": "MIT",
+ "name": "python-pyyaml",
+ "site": "http://pyyaml.org",
+ "title": "PyYAML",
+ "usage": "python\nimport yaml",
+ "version": "3.11",
+ "notes": "Featuring version 3.11"}

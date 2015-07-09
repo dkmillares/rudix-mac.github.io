@@ -1,0 +1,7 @@
+{"description": "Pygments is a generic syntax highlighter for general use in all kinds of software",
+ "license": "BSD",
+ "name": "pygments",
+ "site": "http://pygments.org",
+ "title": "Pygments",
+ "usage": "pydoc pygments",
+ "version": "1.6"}

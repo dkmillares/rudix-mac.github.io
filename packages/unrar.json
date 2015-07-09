@@ -1,0 +1,7 @@
+{"description": "Extract, list, and test RAR archives",
+ "license": "Freeware",
+ "name": "unrar",
+ "site": "http://www.rarlab.com/",
+ "title": "unRAR",
+ "usage": "/usr/local/bin/unrar --help",
+ "version": "5.0.1"}

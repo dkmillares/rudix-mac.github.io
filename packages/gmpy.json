@@ -1,0 +1,7 @@
+{"description": "Multiple-precision arithmetic for Python",
+ "license": "LGPL",
+ "name": "gmpy",
+ "site": "http://code.google.com/p/gmpy/",
+ "title": "GMPY (GMP Python Module)",
+ "usage": "pydoc gmpy",
+ "version": "1.16"}

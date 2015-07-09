@@ -1,0 +1,7 @@
+{"description": "The Python Cryptography Toolkit",
+ "license": "Public Domain",
+ "name": "pycrypto",
+ "site": "https://www.dlitz.net/software/pycrypto/",
+ "title": "PyCrypto",
+ "usage": "open /usr/local/share/doc/pycrypto",
+ "version": "2.6"}

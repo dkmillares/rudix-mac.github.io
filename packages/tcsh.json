@@ -1,0 +1,7 @@
+{"description": "C shell with file name completion and command line editing",
+ "license": "BSD",
+ "name": "tcsh",
+ "site": "http://www.tcsh.org/Home",
+ "title": "Tcsh",
+ "usage": "/usr/local/bin/tcsh --help",
+ "version": "6.18.01"}

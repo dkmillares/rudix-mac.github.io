@@ -1,0 +1,7 @@
+{"description": "Lua is a powerful and fast programming language that is easy to learn and use and to embed into your application",
+ "license": "MIT",
+ "name": "lua",
+ "site": "http://www.lua.org/",
+ "title": "Lua",
+ "usage": "lua",
+ "version": "5.3.0"}

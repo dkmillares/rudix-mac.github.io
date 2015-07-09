@@ -1,0 +1,7 @@
+{"description": "The Go Programming Language",
+ "license": "BSD",
+ "name": "go",
+ "site": "http://golang.org/",
+ "title": "Go Language",
+ "usage": "go",
+ "version": "1.4"}

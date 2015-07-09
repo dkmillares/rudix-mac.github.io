@@ -1,0 +1,7 @@
+{"description": "The Revision Control System (RCS) manages multiple revisions of files",
+ "license": "GPL",
+ "name": "rcs",
+ "site": "http://www.gnu.org/software/rcs/",
+ "title": "GNU RCS",
+ "usage": "/usr/local/bin/rcs",
+ "version": "5.9.3"}

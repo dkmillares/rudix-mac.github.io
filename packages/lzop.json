@@ -1,0 +1,7 @@
+{"description": "lzop is a file compressor which is very similar to gzip",
+ "license": "GPL",
+ "name": "lzop",
+ "site": "http://www.lzop.org",
+ "title": "Lzop",
+ "usage": "/usr/local/bin/lzop",
+ "version": "1.03"}

@@ -1,0 +1,7 @@
+{"description": "Nginx (engine x) is a HTTP and reverse proxy server, as well as a mail proxy server",
+ "license": "BSD",
+ "name": "nginx",
+ "site": "http://nginx.org/",
+ "title": "Nginx",
+ "usage": "nginx -h",
+ "version": "1.7.2"}

@@ -1,0 +1,7 @@
+{"description": "Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more",
+ "name": "squid",
+ "site": "http://www.squid-cache.org/",
+ "title": "Squid",
+ "usage": "squid",
+ "license": "GPL",
+ "version": "2.7"}

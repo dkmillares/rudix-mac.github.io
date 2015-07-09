@@ -1,0 +1,7 @@
+{"description": "C library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result",
+ "license": "LGPL",
+ "name": "mpc",
+ "site": "http://www.multiprecision.org/",
+ "title": "GNU MPC",
+ "usage": "open /usr/local/share/doc/mpc",
+ "version": "1.0.2"}

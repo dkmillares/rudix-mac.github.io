@@ -1,0 +1,7 @@
+{"description": "Small Device C Compiler",
+ "license": "GPL",
+ "name": "sdcc",
+ "site": "http://sdcc.sourceforge.net/",
+ "title": "SDCC",
+ "usage": "/usr/local/bin/sdcc --help",
+ "version": "3.4.0"}

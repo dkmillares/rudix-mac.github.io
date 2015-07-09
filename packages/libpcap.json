@@ -1,0 +1,7 @@
+{"description": "Portable C/C++ library for network traffic capture",
+ "license": "BSD",
+ "name": "libpcap",
+ "site": "http://www.tcpdump.org",
+ "title": "Libpcap",
+ "usage": "open /usr/local/share/doc/libpcap/",
+ "version": "1.6.2"}

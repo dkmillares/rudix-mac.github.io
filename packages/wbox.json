@@ -1,0 +1,7 @@
+{"description": "Wbox",
+ "license": "BSD",
+ "name": "wbox",
+ "site": "http://hping.org/wbox/",
+ "title": "WBox",
+ "usage": "/usr/local/bin/wbox",
+ "version": "5"}

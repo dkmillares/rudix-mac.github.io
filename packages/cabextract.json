@@ -1,0 +1,8 @@
+{"description": "cabextract is Free Software for extracting Microsoft cabinet files, also called .CAB files",
+ "license": "GPL",
+ "name": "cabextract",
+ "site": "http://www.cabextract.org.uk/",
+ "title": "Cabextract",
+ "usage": "cabextract",
+ "notes": "CVE-2015-2060",
+ "version": "1.6"}

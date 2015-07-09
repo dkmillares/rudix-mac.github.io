@@ -1,0 +1,7 @@
+{"description": "Imap Uw",
+ "license": "Apache License 2.0",
+ "name": "imap",
+ "site": "http://www.washington.edu/imap/",
+ "title": "IMAP UW",
+ "usage": "/usr/local/bin/imap",
+ "version": "2007f"}

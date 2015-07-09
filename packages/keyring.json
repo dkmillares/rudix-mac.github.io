@@ -1,0 +1,7 @@
+{"description": "Store and access your passwords safely",
+ "license": "PSF",
+ "name": "keyring",
+ "site": "http://pypi.python.org/pypi/keyring",
+ "title": "Keyring (Python Module)",
+ "usage": "open /usr/local/share/doc/keyring",
+ "version": "1.6.1"}

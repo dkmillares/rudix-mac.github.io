@@ -1,0 +1,7 @@
+{"description": "Parse Atom and RSS feeds in Python",
+ "license": "MIT",
+ "name": "feedparser",
+ "site": "http://code.google.com/p/feedparser/",
+ "title": "Universal Feed Parser (Python Module)",
+ "usage": "pydoc feedparser",
+ "version": "5.1.3"}

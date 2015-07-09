@@ -1,0 +1,7 @@
+{"description": "FLAC is an Open Source lossless audio codec",
+ "license": "BSD",
+ "name": "flac",
+ "site": "http://flac.sourceforge.net/",
+ "title": "FLAC",
+ "usage": "/usr/local/bin/flac",
+ "version": "1.3.1"}

@@ -1,0 +1,7 @@
+{"description": "Library for multiple-precision floating-point computations with correct rounding",
+ "license": "LGPL",
+ "name": "mpfr",
+ "site": "http://www.mpfr.org/",
+ "title": "GNU MPFR",
+ "usage": "open /usr/local/share/doc/mpfr",
+ "version": "3.1.2"}

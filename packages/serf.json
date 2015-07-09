@@ -1,0 +1,7 @@
+{"description": "High-performance asynchronous HTTP client library",
+ "license": "Apache License",
+ "name": "serf",
+ "site": "http://code.google.com/p/serf/",
+ "title": "Serf (Library)",
+ "usage": "open /usr/local/share/doc/serf/",
+ "version": "1.2.0"}

@@ -1,0 +1,7 @@
+{"description": "Fast Light Toolkit",
+ "license": "LGPL",
+ "name": "fltk",
+ "site": "http://www.fltk.org",
+ "title": "FLTK Library",
+ "usage": "open /usr/local/share/doc/fltk",
+ "version": "1.3.3"}

@@ -1,0 +1,7 @@
+{"description": "w3m is a text-based web browser as well as a pager like more or less",
+ "license": "GPL",
+ "name": "w3m",
+ "site": "http://w3m.sourceforge.net/",
+ "title": "w3m",
+ "usage": "w3m -help",
+ "version": "0.5.3"}

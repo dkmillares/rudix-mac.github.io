@@ -1,0 +1,7 @@
+{"description": "Portable Network Graphics - An Open, Extensible Image Format with Lossless Compression",
+ "license": "BSD",
+ "name": "libpng",
+ "site": "http://www.libpng.org/pub/png/",
+ "title": "PNG",
+ "usage": "open /usr/local/share/doc/libpng",
+ "version": "1.6.14"}

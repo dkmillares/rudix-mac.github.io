@@ -1,0 +1,7 @@
+{"description": "Quick and small memcached client for Python",
+ "license": "Python License",
+ "name": "pylibmc",
+ "site": "http://pypi.python.org/pypi/pylibmc",
+ "title": "pylibmc",
+ "usage": "pydoc pylibmc",
+ "version": "1.2.3"}

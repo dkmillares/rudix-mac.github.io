@@ -1,0 +1,8 @@
+{"description": "Library that implement Microsoft's NTLM authentication",
+ "license": "LGPL",
+ "name": "libntlm",
+ "revision": "0",
+ "site": "http://www.nongnu.org/libntlm/",
+ "title": "Libntlm",
+ "usage": "open /usr/local/share/doc/libntlm/",
+ "version": "1.4"}

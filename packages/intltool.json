@@ -1,0 +1,7 @@
+{"description": "Utility scripts for internationalizing XML",
+ "license": "GPL",
+ "name": "intltool",
+ "site": "https://launchpad.net/intltool/",
+ "title": "Internationalization Tool Collection",
+ "usage": "open /usr/local/share/doc/intltool",
+ "version": "0.50.2"}

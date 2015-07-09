@@ -1,0 +1,7 @@
+{"description": "GNU Midnight Commander is a visual file manager",
+ "license": "GPL",
+ "name": "mc",
+ "site": "http://www.midnight-commander.org/",
+ "title": "Midnight Commander",
+ "usage": "mc --help",
+ "version": "4.8.7"}

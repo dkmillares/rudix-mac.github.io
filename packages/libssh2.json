@@ -1,0 +1,7 @@
+{"description": "Library for SSH-based communication",
+ "name": "libssh2",
+ "site": "http://www.libssh2.org",
+ "title": "LibSSH2",
+ "usage": "open /usr/local/share/doc/libssh2",
+ "license": "BSD",
+ "version": "1.4.3"}

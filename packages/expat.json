@@ -1,0 +1,7 @@
+{"description": "The Expat XML Parser",
+ "name": "expat",
+ "title": "Expat",
+ "usage": "open /usr/local/share/doc/expat",
+ "site": "http://expat.sourceforge.net",
+ "license": "MIT",
+ "version": "2.1.0"}

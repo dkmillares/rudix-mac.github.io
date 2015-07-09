@@ -1,0 +1,8 @@
+{"description": "Nmap (Network Mapper) is a free and open source utility for network exploration or security auditing",
+ "license": "GPL",
+ "name": "nmap",
+ "site": "http://nmap.org/",
+ "title": "Nmap",
+ "usage": "/usr/local/bin/nmap",
+ "license": "GPL",
+ "version": "6.40"}

@@ -1,0 +1,7 @@
+{"description": "CMake, the cross-platform, open-source build system",
+ "license": "BSD",
+ "name": "cmake",
+ "site": "http://www.cmake.org",
+ "title": "CMake",
+ "usage": "/usr/local/bin/cmake --help",
+ "version": "3.2.2"}

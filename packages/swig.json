@@ -1,0 +1,7 @@
+{"description": "SWIG is a tool that connects programs written in C/C++ with a variety of high-level programming languages",
+ "license": "GPL",
+ "name": "swig",
+ "site": "http://www.swig.org/",
+ "title": "SWIG",
+ "usage": "swig --help",
+ "version": "2.0.12"}

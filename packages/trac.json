@@ -1,0 +1,7 @@
+{"description": "Trac is an enhanced wiki and issue tracking system for software development projects",
+ "license": "BSD",
+ "name": "trac",
+ "site": "http://trac.edgewall.org",
+ "title": "Trac",
+ "usage": "trac-admin",
+ "version": "1.0.1"}

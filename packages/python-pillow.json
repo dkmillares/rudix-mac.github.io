@@ -1,0 +1,7 @@
+{"description": "Python Imaging Library (Fork)",
+ "license": "PIL Software License",
+ "name": "python-pillow",
+ "site": "http://pypi.python.org/pypi/Pillow",
+ "title": "Python Imaging Library (fork)",
+ "usage": "pydoc PIL",
+ "version": "2.5.3"}

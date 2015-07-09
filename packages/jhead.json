@@ -1,0 +1,7 @@
+{"description": "jhead is used to display and manipulate data contained in the Exif header of JPEG images from digital cameras",
+ "license": "Public Domain",
+ "name": "jhead",
+ "site": "http://www.sentex.net/~mwandel/jhead/",
+ "title": "Jpeg Header Manipulation",
+ "usage": "jhead --help",
+ "version": "2.97"}

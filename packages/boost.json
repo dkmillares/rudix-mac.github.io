@@ -1,0 +1,7 @@
+{"description": "Boost provides free peer-reviewed portable C++ source libraries",
+ "license": "Boost Software License",
+ "name": "boost",
+ "site": "http://www.boost.org/",
+ "title": "Boost C++ Libraries",
+ "usage": "open /usr/local/share/doc/boost/",
+ "version": "1.57.0"}

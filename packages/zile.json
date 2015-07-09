@@ -1,0 +1,7 @@
+{"description": "GNU Zile is a lightweight Emacs clone. Zile is short for Zile Is Lossy Emacs. Zile has been written to be as similar as possible to Emacs; every Emacs user should feel at home",
+ "license": "GPL",
+ "name": "zile",
+ "site": "http://www.gnu.org/software/zile/",
+ "title": "GNU Zile",
+ "usage": "zile",
+ "version": "2.4.11"}

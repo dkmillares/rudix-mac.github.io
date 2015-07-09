@@ -1,0 +1,7 @@
+{"description": "QEMU is a generic and open source machine emulator and virtualizer",
+ "license": "GPL",
+ "name": "qemu",
+ "site": "http://wiki.qemu.org/",
+ "title": "QEMU",
+ "usage": "/usr/local/bin/qemu-system-x86_64",
+ "version": "2.1.2"}

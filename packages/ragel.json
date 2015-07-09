@@ -1,0 +1,7 @@
+{"description": "Ragel compiles executable finite state machines from regular languages. Ragel targets C, C++, Objective-C, D, Java and Ruby",
+ "license": "GPL",
+ "name": "ragel",
+ "site": "http://www.complang.org/ragel/",
+ "title": "Ragel State Machine Compiler",
+ "usage": "ragel",
+ "version": "6.9"}

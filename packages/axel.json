@@ -1,0 +1,7 @@
+{"description": "Axel tries to accelerate HTTP/FTP downloading process by using multiple connections for one file",
+ "license": "GPL",
+ "name": "axel",
+ "site": "http://axel.alioth.debian.org/",
+ "title": "Axel Download Accelerator",
+ "usage": "/usr/local/bin/axel --help",
+ "version": "2.4"}

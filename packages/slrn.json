@@ -1,0 +1,7 @@
+{"description": "S-Lang read news is a newsreader",
+ "name": "slrn",
+ "site": "http://slrn.sourceforge.net",
+ "title": "slrn",
+ "usage": "/usr/local/bin/slrn",
+ "license": "GPL",
+ "version": "1.0.2"}

@@ -1,0 +1,7 @@
+{"description": "JED is a freely available text editor for Unix",
+ "name": "jed",
+ "site": "http://www.jedsoft.org/jed/",
+ "title": "JED",
+ "usage": "/usr/local/bin/jed --help",
+ "license": "GPL",
+ "version": "0.99"}

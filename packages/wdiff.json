@@ -1,0 +1,7 @@
+{"description": "The GNU wdiff program is a front end to diff for comparing files on a word per word basis",
+ "name": "wdiff",
+ "site": "http://www.gnu.org/software/wdiff/",
+ "title": "GNU Wdiff",
+ "usage": "/usr/local/bin/wdiff --help",
+ "license": "GPL",
+ "version": "1.2.2"}

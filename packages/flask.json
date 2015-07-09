@@ -1,0 +1,7 @@
+{"description": "Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions",
+ "license": "BSD",
+ "name": "flask",
+ "site": "http://flask.pocoo.org",
+ "title": "Flask (microframework for Python)",
+ "usage": "pydoc flask",
+ "version": "0.10"}

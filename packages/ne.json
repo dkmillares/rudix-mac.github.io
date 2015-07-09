@@ -1,0 +1,7 @@
+{"description": "ne is a free text editor based on the POSIX standard that runs on almost any UNIX machine",
+ "license": "GPL",
+ "name": "ne",
+ "site": "http://ne.di.unimi.it",
+ "title": "Nice Editor",
+ "usage": "/usr/local/bin/ne --help",
+ "version": "2.5"}

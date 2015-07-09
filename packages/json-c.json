@@ -1,0 +1,7 @@
+{"description": "JSON-C implements a reference counting object model that allows you to easily construct JSON objects in C",
+ "license": "BSD",
+ "name": "json-c",
+ "site": "http://oss.metaparadigm.com/json-c/",
+ "title": "JSON-C",
+ "usage": "open /usr/local/share/doc/json-c",
+ "version": "0.9"}

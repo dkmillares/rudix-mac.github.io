@@ -1,0 +1,7 @@
+{"description": "FFmpeg is a complete solution to record, convert and stream audio and video",
+ "license": "GPL",
+ "name": "ffmpeg",
+ "site": "http://ffmpeg.mplayerhq.hu/",
+ "title": "FFmpeg",
+ "usage": "/usr/local/bin/ffmpeg",
+ "version": "0.11.3"}

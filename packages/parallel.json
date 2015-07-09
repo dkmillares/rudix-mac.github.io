@@ -1,0 +1,7 @@
+{"description": "GNU parallel is a shell tool for executing jobs concurrently locally or using remote computers",
+ "license": "GPL",
+ "name": "parallel",
+ "site": "http://savannah.gnu.org/projects/parallel/",
+ "title": "GNU Parallel",
+ "usage": "/usr/local/bin/parallel",
+ "version": "20141122"}

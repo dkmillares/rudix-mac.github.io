@@ -1,0 +1,7 @@
+{"description": "AsciiDoc is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs",
+ "license": "GPL",
+ "name": "asciidoc",
+ "site": "http://www.methods.co.nz/asciidoc/",
+ "title": "AsciiDoc",
+ "usage": "/usr/local/bin/asciidoc",
+ "version": "8.6.9"}

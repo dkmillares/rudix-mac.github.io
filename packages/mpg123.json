@@ -1,0 +1,7 @@
+{"description": "Mpg123 is a real time MPEG audio player/decoder for layers 1,2 and 3 (MPEG 1.0 layer 3 aka MP3 most commonly tested)",
+ "license": "LGPL",
+ "name": "mpg123",
+ "site": "http://www.mpg123.de/",
+ "title": "MPG123",
+ "usage": "mpg123 --help",
+ "version": "1.22.1"}

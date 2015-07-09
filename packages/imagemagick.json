@@ -1,0 +1,7 @@
+{"description": "ImageMagick is a software suite to create, edit, compose, or convert bitmap images",
+ "license": "Apache 2.0",
+ "name": "imagemagick",
+ "site": "http://www.imagemagick.org/",
+ "title": "ImageMagick",
+ "usage": "/usr/local/bin/imagemagick",
+ "version": "6.8.6"}

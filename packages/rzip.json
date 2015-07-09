@@ -1,0 +1,7 @@
+{"description": "Rzip is a compression program, similar in functionality to gzip or bzip2",
+ "license": "GPL",
+ "name": "rzip",
+ "site": "http://rzip.samba.org/",
+ "title": "Rzip",
+ "usage": "rzip",
+ "version": "2.1"}

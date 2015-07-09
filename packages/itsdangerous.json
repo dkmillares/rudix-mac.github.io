@@ -1,0 +1,7 @@
+{"description": "Various helpers to pass trusted data to untrusted environments and back",
+ "license": "BSD",
+ "name": "itsdangerous",
+ "site": "http://pythonhosted.org/itsdangerous/",
+ "title": "ItIsDangerous (Python Module)",
+ "usage": "open /usr/local/share/doc/itsdangerous",
+ "version": "0.21"}

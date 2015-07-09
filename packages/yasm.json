@@ -1,0 +1,7 @@
+{"description": "Yasm is a complete rewrite of the NASM assembler under the new BSD License",
+ "license": "BSD",
+ "name": "yasm",
+ "site": "http://yasm.tortall.net/",
+ "title": "Yasm",
+ "usage": "/usr/local/bin/yasm --help",
+ "version": "1.3.0"}

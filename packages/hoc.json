@@ -1,0 +1,7 @@
+{"description": "High Order Calculator",
+ "license": "non-free",
+ "name": "hoc",
+ "site": "http://cm.bell-labs.com/cm/cs/upe/index.html",
+ "title": "High Order Calculator",
+ "usage": "/usr/local/bin/hoc",
+ "version": "1.1"}

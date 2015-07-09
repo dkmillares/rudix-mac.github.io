@@ -1,0 +1,9 @@
+{"description": "HTMLDOC converts HTML files and web pages into indexed HTML, PS or PDF files",
+ "license": "GPL",
+ "name": "htmldoc",
+ "revision": "14",
+ "site": "http://www.htmldoc.org/",
+ "title": "HTMLDOC",
+ "usage": "/usr/local/bin/nhtmldoc --help",
+ "notes": ["Upgraded to version 1.8.28", "Built with graphical interface (FLTK)"],
+ "version": "1.8.28"}

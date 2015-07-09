@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="../media/img/favicon.png">
+  <title>Rudix • Packages • {title}</title>
+  <meta name="description" content="{description}">
+  <link href="../media/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../media/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
+  <link href="../media/css/overwrite.css" rel="stylesheet" type="text/css">
+  <meta name="google-site-verification" content="bD1PgBeaOQNxJ0KMyzj9lXbdO3KUzHzFWAAzwQv9q8Q" />
+</head>
+
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="http://rudix.org/">Rudix 2015</a>
+        <ul class="nav">
+          <li><a href="../index.html">Home</a></li>
+          <li class="active"><a href="index.html">Packages</a></li>
+          <li><a href="../documentation.html">Documentation</a></li>
+          <li><a href="https://github.com/rudix-mac/rudix">GitHub</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h1>{name}: {title}</h1>
+    <p>{description}</p>
+    <ul>
+      <li>Site: {site}</li>
+      <li>Port: {port}</li>
+      <li>License: {license}</li>
+    </ul>
+    <h3 id='install'>Install</h3>
+<pre>
+{install}
+</pre>
+    <h3 id='downloads'>Downloads</h3>
+    <table class='table table-hover'>
+      {downloads}
+    </table>
+    <h3>Release Notes</h3> 
+    <ul>
+    {notes}
+    </ul>
+    <h3 id='usage'>Usage</h3>
+<pre>
+{usage}
+</pre>
+
+{files}
+
+  </div>
+  <script src="../media/js/jquery.min.js"></script>
+  <script src="../media/js/bootstrap.min.js"></script>
+  <script src="../media/js/analytics.js"></script>
+</body>
+</html>

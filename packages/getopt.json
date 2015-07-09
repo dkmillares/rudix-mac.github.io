@@ -1,0 +1,7 @@
+{"description": "Parse command-line arguments from shell scripts",
+ "license": "GPL",
+ "name": "getopt",
+ "site": "http://software.frodo.looijaard.name/getopt/",
+ "title": "Getopt",
+ "usage": "open /usr/local/share/doc/getopt",
+ "version": "1.1.5"}

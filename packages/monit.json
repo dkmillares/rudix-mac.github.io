@@ -1,0 +1,7 @@
+{"description": "Monit is a utility for managing and monitoring, processes, files, directories and filesystems",
+ "license": "AGPL",
+ "name": "monit",
+ "site": "http://mmonit.com/monit/",
+ "title": "Monit",
+ "usage": "monit",
+ "version": "5.8.1"}

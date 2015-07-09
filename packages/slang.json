@@ -1,0 +1,7 @@
+{"description": "S-Lang is a multi-platform programmer\"s library designed to allow a developer to create robust multi-platform software",
+ "license": "GPL",
+ "name": "slang",
+ "site": "http://www.jedsoft.org/slang/",
+ "title": "S-Lang",
+ "usage": "open /usr/local/share/doc/slang",
+ "version": "2.3.0"}

@@ -1,0 +1,7 @@
+{"description": "PyChecker is a tool for finding bugs in python source code",
+ "license": "BSD",
+ "name": "python-pychecker",
+ "site": "http://pychecker.sourceforge.net/",
+ "title": "PyChecker",
+ "usage": "pychecker --help",
+ "version": "0.8.19"}

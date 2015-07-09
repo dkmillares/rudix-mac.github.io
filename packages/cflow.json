@@ -1,0 +1,7 @@
+{"description": "GNU cflow analyzes a collection of C source files and prints a graph, charting control flow within the program",
+ "license": "GPL",
+ "name": "cflow",
+ "site": "http://www.gnu.org/software/cflow/",
+ "title": "GNU cflow",
+ "usage": "cflow",
+ "version": "1.4"}

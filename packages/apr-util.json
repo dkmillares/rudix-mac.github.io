@@ -1,0 +1,7 @@
+{"description": "Apache Portable Runtime Utility",
+ "license": "Apache License",
+ "name": "apr-util",
+ "site": "http://apr.apache.org/",
+ "title": "Apache Portable Runtime Utility",
+ "usage": "/usr/local/bin/apu-1-config",
+ "version": "1.5.1"}

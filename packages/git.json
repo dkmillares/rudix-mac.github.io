@@ -1,0 +1,7 @@
+{"description": "Git the fast version control system",
+ "license": "GPL",
+ "name": "git",
+ "site": "http://git-scm.com/",
+ "title": "Git",
+ "usage": "git --help",
+ "version": "1.8.3.1"}

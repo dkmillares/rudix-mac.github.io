@@ -1,0 +1,7 @@
+{"description": "Fabric is a Python library and command-line tool for streamlining the use of SSH",
+ "license": "BSD",
+ "name": "fabric",
+ "site": "http://fabfile.org/",
+ "title": "Fabric",
+ "usage": "/usr/local/bin/fabric",
+ "version": "1.6.1"}

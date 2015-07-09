@@ -1,0 +1,7 @@
+{"description": "Bash (4.x) Completion",
+ "name": "bash-completion",
+ "site": "http://bash-completion.alioth.debian.org",
+ "title": "Bash Completion",
+ "usage": ". /usr/local/etc/bash_completion.sh",
+ "license": "GPL",
+ "version": "2.1"}

@@ -1,0 +1,7 @@
+{"description": "Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level and libc like functions",
+ "license": "GPL",
+ "name": "nspr",
+ "site": "http://www.mozilla.org/projects/nspr/",
+ "title": "Netscape Portable Runtime",
+ "usage": "nspr-config --help",
+ "version": "4.10.4"}

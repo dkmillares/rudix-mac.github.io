@@ -1,0 +1,7 @@
+{"description": "MTR combines the functionality of the traceroute and ping programs in a single network diagnostic tool",
+ "license": "GPL",
+ "name": "mtr",
+ "site": "http://www.bitwizard.nl/mtr/",
+ "title": "MTR",
+ "usage": "sudo /usr/local/sbin/mtr --help",
+ "version": "0.85"}

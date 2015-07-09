@@ -1,0 +1,7 @@
+{"description": "PortAudio is a free, cross-platform, open-source, audio I/O library",
+ "license": "MIT",
+ "name": "portaudio",
+ "site": "http://www.portaudio.com",
+ "title": "PortAudio",
+ "usage": "open /usr/local/share/doc/portaudio",
+ "version": "v19"}

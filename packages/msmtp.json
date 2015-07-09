@@ -1,0 +1,7 @@
+{"description": "msmtp is an SMTP client",
+ "license": "GPL",
+ "name": "msmtp",
+ "site": "http://msmtp.sourceforge.net/",
+ "title": "msmtp",
+ "usage": "/usr/local/bin/msmtp",
+ "version": "1.4.31"}

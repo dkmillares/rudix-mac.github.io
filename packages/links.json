@@ -1,0 +1,7 @@
+{"description": "Links is a graphics and text mode web browser, released under GPL",
+ "license": "GPL",
+ "name": "links",
+ "site": "http://links.twibright.com/",
+ "title": "Links",
+ "usage": "/usr/local/bin/links",
+ "version": "2.8"}

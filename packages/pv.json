@@ -1,0 +1,7 @@
+{"description": "Pipe Viewer is a terminal-based tool for monitoring the progress of data through a pipeline",
+ "license": "Artistic License",
+ "name": "pv",
+ "site": "http://www.ivarch.com/programs/pv.shtml",
+ "title": "Pipe Viewer",
+ "usage": "pv --help",
+ "version": "1.4.6"}

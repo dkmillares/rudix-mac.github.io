@@ -1,0 +1,7 @@
+{"description": "GNU Hello",
+ "license": "GPL",
+ "name": "hello",
+ "site": "http://www.gnu.org/software/hello/",
+ "title": "GNU Hello",
+ "usage": "/usr/local/bin/hello --help",
+ "version": "2.9"}

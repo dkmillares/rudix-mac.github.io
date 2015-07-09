@@ -1,0 +1,7 @@
+{"description": "GLib provides the core application building blocks for libraries and applications written in C",
+ "license": "GPL",
+ "name": "glib",
+ "site": "http://www.gtk.org/",
+ "title": "GLib",
+ "usage": "info glib",
+ "version": "2.42.2"}

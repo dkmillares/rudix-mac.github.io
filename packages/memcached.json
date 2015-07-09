@@ -1,0 +1,7 @@
+{"description": "Free & open source, high-performance, distributed memory object caching system",
+ "license": "BSD",
+ "name": "memcached",
+ "site": "http://memcached.org/",
+ "title": "Memcached",
+ "usage": "/usr/local/bin/memcached",
+ "version": "1.4.21"}

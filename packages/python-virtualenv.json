@@ -1,0 +1,7 @@
+{"description": "virtualenv is a tool to create isolated Python environments",
+ "license": "Python",
+ "name": "python-virtualenv",
+ "site": "http://pypi.python.org/pypi/virtualenv/",
+ "title": "Python virtualenv",
+ "usage": "virtualenv --help",
+ "version": "12.1.1"}

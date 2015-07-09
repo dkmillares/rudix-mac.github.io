@@ -1,0 +1,8 @@
+{"description": "Free software-based reference implementation of the codec specified in the JPEG-2000 Part-1 standard",
+ "license": "JasPer",
+ "name": "jasper",
+ "site": "http://www.ece.uvic.ca/~frodo/jasper/",
+ "title": "JasPer",
+ "usage": "jasper",
+ "notes": "Featuring version 1.900.1",
+ "version": "1.900.1"}

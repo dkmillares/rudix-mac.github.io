@@ -1,0 +1,7 @@
+{"description": "tload (Mac) from procps 3.2.8",
+ "license": "GPL",
+ "name": "tload",
+ "site": "https://github.com/ruda/tload/",
+ "title": "Tload",
+ "usage": "tload",
+ "version": "3.2.8"}

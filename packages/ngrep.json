@@ -1,0 +1,8 @@
+{"description": "ngrep provides a grep-like interface to the network layer",
+ "license": "BSD like",
+ "name": "ngrep",
+ "site": "http://ngrep.sourceforge.net",
+ "title": "ngrep",
+ "usage": "sudo ngrep",
+ "license": "BSD like",
+ "version": "1.45"}

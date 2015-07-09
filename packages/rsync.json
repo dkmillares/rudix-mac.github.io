@@ -1,0 +1,9 @@
+{"description": "rsync is an open source utility that provides fast incremental file transfer",
+ "license": "GPL",
+ "name": "rsync",
+ "revision": "0",
+ "site": "http://samba.org/rsync/",
+ "title": "Rsync",
+ "usage": "/usr/local/bin/rsync3 --help\nman rsync3",
+ "notes": ["Upgraded to version 3.1.1", "Built with patches <a href=\"http://www.lbackup.org/developer/rsync_hfs\">fileflags, crtimes and hfs-compression</a>"],
+ "version": "3.1.1"}

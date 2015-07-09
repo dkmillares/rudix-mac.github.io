@@ -1,0 +1,7 @@
+{"description": "Libjpeg is a widely used C library for reading and writing JPEG image files",
+ "license": "BSD-like",
+ "name": "libjpeg",
+ "site": "http://www.ijg.org/",
+ "title": "LibJPEG",
+ "usage": "open /usr/local/share/doc/libjpeg",
+ "version": "9a"}

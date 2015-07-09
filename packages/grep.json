@@ -1,0 +1,7 @@
+{"description": "The GNU grep command searches one or more input files for lines containing a match to a specified pattern",
+ "license": "GPL",
+ "name": "grep",
+ "site": "http://www.gnu.org/software/grep/",
+ "title": "GNU Grep",
+ "usage": "/usr/local/bin/grep",
+ "version": "2.20"}

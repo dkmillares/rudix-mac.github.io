@@ -1,0 +1,7 @@
+{"description": "The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxsl",
+ "license": "BSD",
+ "name": "lxml",
+ "site": "http://lxml.de/",
+ "title": "XML and HTML with Python",
+ "usage": "pydoc lxml",
+ "version": "3.4.1"}

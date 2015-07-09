@@ -1,0 +1,7 @@
+{"description": "Neon is an HTTP and WebDAV client library, with a C interface",
+ "license": "LGPL",
+ "name": "neon",
+ "site": "http://www.webdav.org/neon/",
+ "title": "Neon",
+ "usage": "open /usr/local/share/doc/neon",
+ "version": "0.30.1"}

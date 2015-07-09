@@ -1,0 +1,7 @@
+{"description": "Turn HTML into equivalent Markdown-structured text",
+ "license": "GPL",
+ "name": "html2text",
+ "site": "https://github.com/aaronsw/html2text",
+ "title": "Html2text",
+ "usage": "html2text --help",
+ "version": "3.200.3"}

@@ -1,0 +1,7 @@
+{"description": "This is an update of Benjamin Lin's implementations of dos2unix and unix2dos",
+ "license": "BSD",
+ "name": "dos2unix",
+ "site": "http://waterlan.home.xs4all.nl/dos2unix.html",
+ "title": "Dos2Unix",
+ "usage": "dos2unix",
+ "version": "6.0.3"}

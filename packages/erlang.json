@@ -1,0 +1,7 @@
+{"description": "Erlang Programming Language",
+ "license": "EPL",
+ "name": "erlang",
+ "site": "http://www.erlang.org/",
+ "title": "Erlang/OTP",
+ "usage": "/usr/local/bin/erl",
+ "version": "17.4"}

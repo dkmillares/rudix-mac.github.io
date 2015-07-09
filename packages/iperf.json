@@ -1,0 +1,7 @@
+{"description": "Iperf was developed by NLANR/DAST as a modern alternative for measuring maximum TCP and UDP bandwidth performance",
+ "license": "BSD",
+ "name": "iperf",
+ "site": "http://iperf.sourceforge.net/",
+ "title": "Iperf",
+ "usage": "iperf --help",
+ "version": "2.0.5"}

@@ -1,0 +1,7 @@
+{"description": "talloc is a hierarchical, reference counted memory pool system with destructors. It is the core memory allocator used in Samba",
+ "license": "GPL",
+ "name": "talloc",
+ "site": "http://talloc.samba.org/",
+ "title": "Talloc",
+ "usage": "open /usr/local/share/doc/talloc",
+ "version": "2.1.1"}

@@ -1,0 +1,7 @@
+{"description": "SQLite is a in-process library that implements a self-contained transactional SQL database engine",
+ "license": "Public Domain",
+ "name": "sqlite",
+ "site": "http://www.sqlite.org/",
+ "title": "SQLite",
+ "usage": "/usr/local/bin/sqlite3",
+ "version": "3.7.17"}

@@ -1,0 +1,9 @@
+{"description": "Bash is the shell, or command language interpreter, that will appear in the GNU operating system",
+ "license": "GPL",
+ "name": "bash",
+ "revision": "0",
+ "site": "http://www.gnu.org/software/bash/",
+ "title": "GNU Bash",
+ "usage": "/usr/local/bin/bash",
+ "notes": ["CVE-2014-6271", "<a href=\"http://ftp.gnu.org/gnu/bash/bash-4.3-patches/\">Patches 001-030</a>"],
+ "version": "4.3"}

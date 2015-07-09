@@ -1,0 +1,7 @@
+{"description": "Backport of the subprocess module from Python3",
+ "name": "python-subprocess32",
+ "site": "https://code.google.com/p/python-subprocess32/",
+ "title": "Python Subprocess32",
+ "usage": "pydoc subprocess32",
+ "license": "PSF",
+ "version": "3.2.6"}

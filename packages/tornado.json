@@ -1,0 +1,7 @@
+{"description": "Tornado is an open source version of the scalable, non-blocking web server and tools that power FriendFeed",
+ "license": "Apache",
+ "name": "tornado",
+ "site": "http://www.tornadoweb.org/",
+ "title": "Tornado",
+ "usage": "pydoc tornado",
+ "version": "3.1"}

@@ -1,0 +1,7 @@
+{"description": "GNU libsigsegv - Handling page faults in user mode",
+ "license": "GPL",
+ "name": "libsigsegv",
+ "site": "http://libsigsegv.sourceforge.net/",
+ "title": "GNU libsigsegv",
+ "usage": "open /usr/local/share/doc/libsigsegv",
+ "version": "2.10"}

@@ -1,0 +1,7 @@
+{"description": "Cairo is a 2D graphics library with support for multiple output devices",
+ "license": "LGPL",
+ "name": "cairo",
+ "site": "http://cairographics.org/",
+ "title": "Cairo",
+ "usage": "/usr/local/bin/cairo",
+ "version": "1.12.14"}

@@ -1,0 +1,8 @@
+{"description": "Display bandwidth usage on an interface",
+ "license": "GPL",
+ "name": "iftop",
+ "site": "http://www.ex-parrot.com/pdw/iftop/",
+ "title": "iftop",
+ "usage": "/usr/local/sbin/iftop -h",
+ "version": "1.0",
+ "notes": {"10.9": "Upgraded to version 1.0pre4"}}

@@ -1,0 +1,7 @@
+{"description": "The bvi is a display-oriented editor for binary files, based on the vi texteditor",
+ "license": "GPL",
+ "name": "bvi",
+ "site": "http://bvi.sourceforge.net/",
+ "title": "Bvi",
+ "usage": "bvi",
+ "version": "1.3.2"}

@@ -1,0 +1,7 @@
+{"description": "jp2a is a small utility that converts JPG images to ASCII",
+ "license": "GPL",
+ "name": "jp2a",
+ "site": "https://csl.name/jp2a/",
+ "title": "jp2a",
+ "usage": "jp2a",
+ "version": "1.0.6"}

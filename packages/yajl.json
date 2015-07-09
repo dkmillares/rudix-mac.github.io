@@ -1,0 +1,7 @@
+{"description": "Yet Another JSON Library",
+ "license": "ISC",
+ "name": "yajl",
+ "site": "https://lloyd.github.io/yajl/",
+ "title": "YAJL",
+ "usage": "/usr/local/bin/json_format\n/usr/local/bin/json_verify",
+ "version": "2.1.0"}

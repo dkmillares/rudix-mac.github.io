@@ -1,0 +1,7 @@
+{"description": "Grap is a language for typesetting graphs specified and first implemented by Brian Kernighan and Jon Bentley at Bell Labs",
+ "name": "grap",
+ "site": "http://www.lunabase.org/~faber/Vault/software/grap",
+ "title": "Grap",
+ "usage": "grap",
+ "license": "BSD",
+ "version": "1.45"}

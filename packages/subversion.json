@@ -1,0 +1,7 @@
+{"description": "Enterprise-class centralized version control for the masses",
+ "license": "Apache License",
+ "name": "subversion",
+ "site": "http://subversion.apache.org/",
+ "title": "Apache Subversion",
+ "usage": "/usr/local/bin/svn --help",
+ "version": "1.8.10"}

@@ -1,0 +1,7 @@
+{"description": "Display dialog boxes from shell scripts",
+ "license": "LGPL",
+ "name": "dialog",
+ "site": "http://invisible-island.net/dialog/dialog.html",
+ "title": "Dialog",
+ "usage": "/usr/local/bin/dialog",
+ "version": "1.2"}

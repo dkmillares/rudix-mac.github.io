@@ -1,0 +1,7 @@
+{"description": "Liboop is a low-level event loop management library for POSIX-based operating systems",
+ "license": "LGPL",
+ "name": "liboop",
+ "site": "http://www.lysator.liu.se/liboop/",
+ "title": "Liboop",
+ "usage": "open /usr/local/share/doc/liboop",
+ "version": "1.0"}

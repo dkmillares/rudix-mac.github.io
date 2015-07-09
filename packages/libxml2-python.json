@@ -1,0 +1,7 @@
+{"description": "Python bindings for libxml2",
+ "license": "MIT",
+ "name": "libxml2-python",
+ "site": "http://xmlsoft.org/python.html",
+ "title": "libxml2-python",
+ "usage": "/usr/local/bin/libxml2-python",
+ "version": "2.6.21"}
