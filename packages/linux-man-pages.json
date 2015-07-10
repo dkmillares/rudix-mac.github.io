@@ -1,0 +1,8 @@
+{ "title": "Linux manual pages",
+  "description": "The Linux man-pages documents the Linux kernel and C library interfaces",
+  "name": "linux-man-pages",
+  "version": "4.00",
+  "license": "Freely distributable",
+  "site": "https://www.kernel.org/doc/man-pages/",
+  "source": "https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.00.tar.xz",
+  "usage": "MANPATH=/usr/local/share/linux/man man intro" }
