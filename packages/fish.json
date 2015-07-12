@@ -1,7 +1,7 @@
-{"description": "Fish Shell",
+{"description": "Fish is a smart and user-friendly command line shell",
  "license": "GPL",
  "name": "fish",
  "site": "http://fishshell.com",
  "title": "Fish Shell",
  "usage": "fish",
- "version": "2.1.1"}
+ "version": "2.2.0"}
