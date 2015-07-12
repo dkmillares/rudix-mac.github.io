@@ -85,7 +85,7 @@ def update_downloads(manifests, d):
     return d
 
 def update_port(d):
-    link = 'https://github.com/rudix-mac/rudix/tree/master/Ports/%s' % d['name']
+    link = 'https://github.com/rudix-mac/rudix/tree/2015/Ports/%s' % d['name']
     d['port'] = '<a href="%s">%s</a>' % (link, link)
     return d
 
