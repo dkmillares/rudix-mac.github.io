@@ -4,7 +4,7 @@ all:
 		./create_page_from_json.py package.html.in $$x -o $${x%.json}.html ; \
 	done
 
-index.html: index.html.in
+index.html: index.html.in *.json
 	./create_index.py > $@
 
 %.html: %.json
