@@ -3,6 +3,5 @@
  "name": "wget",
  "site": "http://www.gnu.org/software/wget/",
  "title": "GNU Wget",
- "usage": "/usr/local/bin/wget --help\ninfo wget\nman wget",
- "notes": "Upgraded to version 1.15<br>Built with libidn",
- "version": "1.15"}
+ "usage": "wget --help",
+ "version": "1.16.3"}
