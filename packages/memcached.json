@@ -3,5 +3,5 @@
  "name": "memcached",
  "site": "http://memcached.org/",
  "title": "Memcached",
- "usage": "/usr/local/bin/memcached",
- "version": "1.4.21"}
+ "usage": "memcached",
+ "version": "1.4.24"}
