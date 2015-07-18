@@ -4,4 +4,4 @@
  "site": "http://www.sqlite.org/",
  "title": "SQLite",
  "usage": "/usr/local/bin/sqlite3",
- "version": "3.7.17"}
+ "version": "3.8.10.2"}
