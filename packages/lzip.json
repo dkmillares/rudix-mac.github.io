@@ -1,7 +1,7 @@
-{"description": "Lzip",
+{"description": "Lzip is a lossless data compressor with a user interface similar to the one of gzip or bzip2",
  "license": "GPL",
  "name": "lzip",
  "site": "http://www.nongnu.org/lzip/",
  "title": "Lzip",
- "usage": "/usr/local/bin/lzip --help",
- "version": "1.16"}
+ "usage": "lzip --help",
+ "version": "1.17"}
