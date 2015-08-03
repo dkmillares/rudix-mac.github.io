@@ -1,0 +1,7 @@
+{ "site": "http://www.nongnu.org/lzip/",
+  "title": "Lunzip",
+  "name": "lunzip",
+  "version": "1.7",
+  "license": "GPL",
+  "description": "Lunzip is a decompressor for lzip files",
+  "usage": "lunzip --help" }
