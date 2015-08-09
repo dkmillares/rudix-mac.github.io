@@ -4,4 +4,4 @@
  "site": "http://www.cython.org/",
  "title": "Cython",
  "usage": "cython --help",
- "version": "0.22"}
+ "version": "0.23"}
