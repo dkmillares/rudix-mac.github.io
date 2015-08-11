@@ -3,5 +3,5 @@
  "name": "mutt",
  "site": "http://www.mutt.org/",
  "title": "Mutt",
- "usage": "/usr/local/bin/mutt",
+ "usage": "mutt",
  "version": "1.5.23"}
