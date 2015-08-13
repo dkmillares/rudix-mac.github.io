@@ -3,5 +3,5 @@
  "name": "lighttpd",
  "site": "http://www.lighttpd.net",
  "title": "Lighttpd",
- "usage": "/usr/local/bin/lighttpd",
- "version": "1.4.35"}
+ "usage": "/usr/local/sbin/lighttpd -h",
+ "version": "1.4.36"}
