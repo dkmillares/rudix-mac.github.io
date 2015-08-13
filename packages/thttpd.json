@@ -1,0 +1,7 @@
+{ "site": "http://www.acme.com/software/thttpd/",
+  "title": "Tiny/turbo/throttling HTTP server",
+  "description": "thttpd is a simple, small, portable, fast, and secure HTTP server",
+  "name": "thttpd",
+  "version": "2.26",
+  "usage": "thttpd -h\nman thttpd",
+  "license": "BSD" }
