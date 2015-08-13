@@ -2,6 +2,6 @@
  "name": "squid",
  "site": "http://www.squid-cache.org/",
  "title": "Squid",
- "usage": "squid",
+ "usage": "/usr/local/sbin/squid -h",
  "license": "GPL",
- "version": "2.7"}
+ "version": "3.5.7"}
