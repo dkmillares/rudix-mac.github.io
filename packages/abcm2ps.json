@@ -1,0 +1,7 @@
+{ "site": "http://moinejf.free.fr",
+  "description": "abcm2ps is a command line program which converts ABC to music sheet in PostScript or SVG format",
+  "title": "ABC to PostScript",
+  "name": "abcm2ps",
+  "version": "7.8.14",
+  "usage": "abcm2ps -h",
+  "license": "GPL" }
