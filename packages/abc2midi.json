@@ -1,0 +1,7 @@
+{ "site": "http://ifdo.pugmarks.com/%7Eseymour/runabc/top.html",
+  "description": "",
+  "title": "abcMIDI",
+  "name": "abcmidi",
+  "version": "2015.08.11",
+  "usage": "abc2midi -h",
+  "license": "GPLv2" }
