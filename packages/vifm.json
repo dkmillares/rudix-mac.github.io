@@ -1,7 +1,7 @@
 {"description": "Vifm is a ncurses based file manager with vi like keybindings",
  "name": "vifm",
- "site": "http://vifm.sourceforge.net/index.html",
+ "site": "http://vifm.info",
  "title": "Vifm",
  "license": "GPL",
  "usage": "vifm --help",
- "version": "0.7.3a"}
+ "version": "0.8"}
