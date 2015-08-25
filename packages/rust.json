@@ -3,5 +3,5 @@
  "site": "http://www.rust-lang.org/",
  "title": "Rust Language",
  "usage": "rustc --help",
- "version": "1.0.0",
- "license": "MIT/Apache"}
+ "version": "1.2.0",
+ "license": "MIT+Apache License+BSD"}
