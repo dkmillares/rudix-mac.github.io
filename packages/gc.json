@@ -4,4 +4,4 @@
  "site": "http://www.hpl.hp.com/personal/Hans_Boehm/gc/",
  "title": "Boehm-Demers-Weiser Garbage Collector",
  "usage": "open /usr/local/share/doc/gc/",
- "version": "7.2e"}
+ "version": "7.2f"}
