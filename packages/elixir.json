@@ -1,0 +1,7 @@
+{ "site": "http://elixir-lang.org",
+  "description": "Functional language designed for building scalable and maintainable application",
+  "title": "Elixir",
+  "name": "elixir",
+  "version": "1.0.5",
+  "usage": "iex",
+  "license": "Apache License" }
