@@ -1,0 +1,7 @@
+{ "site": "https://gnu.org/software/dejagnu/",
+  "description": "DejaGnu is a framework for testing other programs",
+  "title": "DejaGnu",
+  "name": "dejagnu",
+  "version": "1.5.3",
+  "usage": "runtest",
+  "license": "GPLv3" }
