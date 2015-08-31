@@ -3,5 +3,5 @@
   "license": "GPL",
   "name": "automake",
   "title": "GNU Automake",
-  "version": "1.14.1",
-  "usage": "/usr/local/bin/automake" }
+  "version": "1.15",
+  "usage": "automake" }
