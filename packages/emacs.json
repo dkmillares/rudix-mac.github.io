@@ -3,5 +3,5 @@
  "name": "emacs",
  "site": "http://www.gnu.org/software/emacs/",
  "title": "GNU Emacs",
- "usage": "/usr/local/bin/emacs",
- "version": "24.4"}
+ "usage": "emacs-24.5 --help",
+ "version": "24.5"}
