@@ -3,5 +3,5 @@
  "name": "gperftools",
  "site": "http://code.google.com/p/gperftools/",
  "title": "Gperftools",
- "usage": "man pprof",
- "version": "2.3"}
+ "usage": "open /usr/local/share/doc/pprof",
+ "version": "2.4"}
