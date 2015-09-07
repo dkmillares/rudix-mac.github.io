@@ -3,6 +3,5 @@
  "site": "http://www.haproxy.org",
  "title": "HAProxy",
  "usage": "haproxy",
- "version": "1.5.9",
- "license": "GPL/LGPL",
- "notes": ["Upgraded to version 1.5.9", "Built with kqueue, zlib, openssl and pcre"]}
+ "version": "1.5.14",
+ "license": "GPL/LGPL"}
