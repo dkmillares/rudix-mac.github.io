@@ -1,7 +1,7 @@
-{"description": "Paramiko is a module for python 2.2 that implements the SSH2 protocol for secure connections to remote machines",
+{"description": "Paramiko is a module for Python that implements the SSH2 protocol for secure connections to remote machines",
  "license": "LGPL",
  "name": "paramiko",
  "site": "http://www.lag.net/paramiko/",
- "title": "Paramiko (Python SSH module)",
+ "title": "Paramiko",
  "usage": "pydoc paramiko",
- "version": "1.10.1"}
+ "version": "1.15.2"}
