@@ -1,0 +1,7 @@
+{ "site": "https://github.com/warner/python-ecdsa",
+  "description": "Python ECDSA signature/verification",
+  "title": "Python ECDSA",
+  "name": "python-ecdsa",
+  "version": "0.13",
+  "license": "MIT",
+  "usage": "pydoc ecdsa" }
