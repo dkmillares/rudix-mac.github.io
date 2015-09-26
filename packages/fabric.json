@@ -3,5 +3,5 @@
  "name": "fabric",
  "site": "http://fabfile.org/",
  "title": "Fabric",
- "usage": "/usr/local/bin/fabric",
- "version": "1.6.1"}
+ "usage": "pydoc fabric",
+ "version": "1.10.2"}
