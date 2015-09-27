@@ -1,0 +1,7 @@
+{ "site": "https://www.cs.hmc.edu/~geoff/ispell.html",
+  "description": "International Ispell is an interactive spell-checking program which supports a large number of European languages",
+  "title": "Ispell",
+  "name": "ispell",
+  "version": "3.4.00",
+  "license": "BSD-Like",
+  "usage": "ispell -h" }
