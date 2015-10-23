@@ -1,0 +1,7 @@
+{ "site": "https://www.gnu.org/software/chess/",
+  "title": "GNU Chess",
+  "description": "GNU Chess is a chess-playing program",
+  "name": "gnuchess",
+  "version": "6.2.2",
+  "license": "GPL",
+  "usage": "gnuchess --help\ninfo gnuchess" }
