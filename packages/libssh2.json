@@ -1,7 +1,8 @@
-{"description": "Library for SSH-based communication",
- "name": "libssh2",
- "site": "http://www.libssh2.org",
- "title": "LibSSH2",
- "usage": "open /usr/local/share/doc/libssh2",
- "license": "BSD",
- "version": "1.4.3"}
+{ "site": "http://www.libssh2.org",
+  "description": "Client-side C library implementing the SSH2 protocol",
+  "title": "SSH Library",
+  "name": "libssh2",
+  "version": "1.6.0",
+  "license": "BSD",
+  "source": "http://www.libssh2.org/download/libssh2-1.6.0.tar.gz",
+  "usage": "open /usr/local/share/doc/libssh2" }
