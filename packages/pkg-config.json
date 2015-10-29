@@ -1,7 +1,7 @@
-{"description": "pkg-config is a helper tool used when compiling applications and libraries",
+{"description": "Helper tool used when compiling applications and libraries",
  "license": "GPL",
  "name": "pkg-config",
  "site": "http://www.freedesktop.org/wiki/Software/pkg-config",
  "title": "Pkg-Config",
- "usage": "/usr/local/bin/pkg-config --help",
- "version": "0.28"}
+ "usage": "pkg-config --help",
+ "version": "0.29"}
