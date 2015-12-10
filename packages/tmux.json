@@ -3,5 +3,5 @@
  "name": "tmux",
  "site": "http://tmux.sourceforge.net/",
  "title": "Terminal Multiplexer",
- "usage": "/usr/local/bin/tmux",
- "version": "2.0"}
+ "usage": "tmux --help",
+ "version": "2.1"}
