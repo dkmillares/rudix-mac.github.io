@@ -14,7 +14,7 @@ from datetime import date
 
 SITE = 'https://raw.githubusercontent.com/rudix-mac/packages/2015/{osx}/'
 PACKAGE = SITE + '/{package}'
-DOWNLOAD = '/Users/ruda/Projects/rudix-packages/{osx}/'
+DOWNLOAD = '/Users/{user}/Rudix/rudix-packages/{osx}/'
 MANIFEST = DOWNLOAD + '/00MANIFEST.txt'
 
 OSX_NAMES = {'10.9': 'Mavericks',
@@ -49,7 +49,9 @@ def parse_manifest(source):
 def parse_all_manifests():
     m = {}
     for version in OSX_VERSIONS:
-        src = open(MANIFEST.format(osx=version)).read()
+        src = open(MANIFEST.format(
+                osx=version,
+                user=os.environ['USER'])).read()
         m[version] = parse_manifest(src)
     return m
 
@@ -71,7 +73,9 @@ def update_downloads(manifests, d):
                                 d['name'])
         if not latest:
             continue
-        path = os.path.join(DOWNLOAD.format(osx=version), latest)
+        path = os.path.join(
+            DOWNLOAD.format(osx=version,
+                            user=os.environ['USER']), latest)
         stat = os.stat(path)
         ts = stat.st_mtime
         size = stat.st_size / float(1024 * 1024)
