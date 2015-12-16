@@ -34,16 +34,15 @@
 
       <h1>Welcome to Rudix!</h1>
 
-      <img src="media/img/rudix-256x256.png" title="Rudix logo" align="right">
+      <blockquote>“The hassle-free way to get Unix programs on OS X”</blockquote>
       <p>Rudix is a collection of pre-built Unix software delivered
-      as packages for OS X: “The hassle-free way to get Unix
-      programs on OS X”.</p>
-
-      <p>Reasons to use Rudix:</p>
+      as packages for OS X.
+      <a href="http://rudix.org/packages/rudix.html">
+        <img src="media/img/rudix-256x256.png" title="Download Rudix Package Manager" align="right" width="25%"></a>
+      <p>Reasons to use:</p>
       <ul>
         <li>Ready to use, don't need to compile anything.</li>
-        <li>Compatible with El Capitan, Yosemite, Mavericks, Mountain Lion, Lion and Snow
-        Leopard (PowerPC is not supported).</li>
+        <li>Compatible with El Capitan, Yosemite, Mavericks, Mountain Lion, Lion and Snow Leopard (PowerPC is not supported).</li>
         <li>Included dependencies when applicable.</li>
         <li>A wide selection of packages.</li>
         <li>Distribute Python modules.</li>
@@ -52,7 +51,6 @@
       <p><a href="documentation.html">Learn more »</a></p>
 
       <h2>Quick Start</h2>
-
       <p>There is two ways to have the Rudix Package manager installed.
       <b>You can download the proper package and install it from 
       <a href="http://rudix.org/packages/rudix.html">packages > rudix</a></b> or
@@ -66,43 +64,46 @@ sudo python rudix.py install rudix
       <pre>
 curl -s https://raw.githubusercontent.com/rudix-mac/rpm/2015.10.20/rudix.py | sudo python - install rudix
 </pre>
+
       <div class="alert">
+        <p>Note that:</p>
         <ul>
           <li>You will be probably asked for administrator password when installing packages.</li>
           <li>Consider the <a href="http://blog.emillon.org/posts/2014-12-27-on-the-curl-sh-pattern.html">security risk</a> of using the command line approach.</li>
           <li>If you are having trouble to upgrade Rudix from the previous versions, please try the command line boostrap.</li>
-	</ul>
+        </ul>
       </div>
+
+      <h2>Usage</h2>
+
       <p>Now you are ready to use Rudix packages, type the command
       <code>rudix search</code> to get a list of packages for
       installation. For example, use <code>sudo rudix install
-      wget</code> to install <em>wget</em> (GNU Wget). <a href=
-      "/documentation.html#usage">Learn more »</a></p>
-
-      <h2 id="donations">Help the project, donate!</h2>
-
-      <p>We like to say that Rudix is handcrafted work, much like
-      the artisans do. You can help to contribute by donating an
-      amount – <em>no donation is too small</em> – via Paypal.</p>
-
-      <p>All donations are confidential and remain anonymous unless
-      you say otherwise. If you would like to see your name or your
-      company acknowledged here as a donor or sponsor, <a href=
-      "mailto:ruda.moura@gmail.com">let us know</a>.</p>
-
-<center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="8DJE9ESM8L4GW">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</center>
-
+      wget</code> to install <em>wget</em> (GNU Wget).</p>
+      <p>If (for any reason) you dislike Rudix, you can remove it completely by running <code>sudo rudix -R</code>.</p>
+      <p><a href="/documentation.html#usage">Learn more »</a></p>
     </div>
-    <div class="span3 offset1">
-      <a class="twitter-timeline" href="https://twitter.com/rudix4mac" data-widget-id="595010656610459649" height="500">Tweets by @rudix4mac</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      <a class="twitter-timeline" href="https://twitter.com/rudix4mac/favorites" data-widget-id="595030824094998528" height="500">Favorite Tweets by @rudix4mac</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    <div class="span4">
+      <h2 id="donations">Help the project</h2>
+
+      <center>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="8DJE9ESM8L4GW">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+      </center>
+
+      <p>You can help to contribute by donating an amount – <em>no donation is too small</em> – via Paypal.</p>
+      <p>All donations are confidential and remain anonymous unless you say otherwise. If you would like to see your name or your company acknowledged here as a donor or sponsor, <a href="mailto:ruda.moura@gmail.com">let us know</a>.</p>
+
+      <h2>News</h2>
+
+      <a class="twitter-timeline"  href="https://twitter.com/rudix4mac" data-widget-id="595010656610459649">Tweets by @rudix4mac</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
     </div>
   </div>
   <script src="media/js/jquery.min.js"></script>
