@@ -1,0 +1,8 @@
+{"site": "http://www.libressl.org",
+ "title": "LibreSSL",
+ "description": "LibreSSL is a version of the TLS/crypto stack forked from OpenSSL",
+ "name": "libressl",
+ "version": "2.2.6",
+ "license": "OpenSSL License",
+ "notes": ["Initial release"],
+ "usage": "/usr/local/bin/openssl help"}
