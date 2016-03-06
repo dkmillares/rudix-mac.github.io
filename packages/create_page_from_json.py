@@ -12,9 +12,9 @@ from cgi import escape
 from distutils.version import LooseVersion
 from datetime import date
 
-SITE = 'https://raw.githubusercontent.com/rudix-mac/packages/2015/{osx}/'
+SITE = 'https://raw.githubusercontent.com/rudix-mac/packages/master/{osx}/'
 PACKAGE = SITE + '/{package}'
-DOWNLOAD = '/Users/{user}/Rudix/rudix-packages/{osx}/'
+DOWNLOAD = '/Users/{user}/Projects/rudix-packages/{osx}/'
 MANIFEST = DOWNLOAD + '/00MANIFEST.txt'
 
 OSX_NAMES = {'10.9': 'Mavericks',
@@ -90,7 +90,7 @@ def update_downloads(manifests, d):
     return d
 
 def update_port(d):
-    link = 'https://github.com/rudix-mac/rudix/tree/2015/Ports/%s' % d['name']
+    link = 'https://github.com/rudix-mac/rudix/tree/master/Ports/%s/Makefile' % d['name']
     d['port'] = '<a href="%s">%s</a>' % (link, link)
     return d
 
