@@ -1,7 +1,7 @@
 {"description": "Cntlm is an NTLM / NTLM Session Response / NTLMv2 authenticating HTTP proxy",
- "license": "GPL",
+ "license": "GPLv2",
  "name": "cntlm",
  "site": "http://cntlm.sourceforge.net",
- "title": "Cntlm Authentication Proxy",
+ "title": "NTLM Authentication Proxy",
  "usage": "cntlm -h",
  "version": "0.92.3"}
