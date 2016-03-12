@@ -4,4 +4,4 @@
  "site": "http://pypi.python.org/pypi/virtualenv/",
  "title": "Python virtualenv",
  "usage": "virtualenv --help",
- "version": "13.1.2"}
+ "version": "15.0.0"}
