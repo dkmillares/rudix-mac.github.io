@@ -1,7 +1,7 @@
-{"description": "Texinfo is the official documentation format of the GNU project",
- "license": "GPL",
+{"description": "The GNU Documentation System",
+ "license": "GPLv3+",
  "name": "texinfo",
  "site": "http://savannah.gnu.org/projects/texinfo",
  "title": "Texinfo",
- "usage": "open /usr/local/share/doc/texinfo",
- "version": "5.1"}
+ "usage": "/usr/local/bin/info --help",
+ "version": "6.1"}
