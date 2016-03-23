@@ -1,7 +1,7 @@
 {"description": "Zlib is a general purpose data compression library",
  "name": "zlib",
  "site": "http://www.zlib.net",
- "license": "zlib",
+ "license": "zlib License",
  "title": "Zlib",
  "usage": "open /usr/local/share/doc/zlib",
  "version": "1.2.8"}
