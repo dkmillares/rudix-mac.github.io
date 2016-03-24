@@ -17,7 +17,7 @@
   <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
-        <a class="brand" href="http://rudix.org/">Rudix 2015</a>
+        <a class="brand" href="http://rudix.org/">Rudix</a>
         <ul class="nav">
           <li><a href="../index.html">Home</a></li>
           <li class="active"><a href="index.html">Packages</a></li>
@@ -33,7 +33,7 @@
     <p>dtach is a tiny program that emulates the detach feature of screen</p>
     <ul>
       <li>Site: <a href="http://dtach.sourceforge.net">http://dtach.sourceforge.net</a></li>
-      <li>Port: <a href="https://github.com/rudix-mac/rudix/tree/2015/Ports/dtach">https://github.com/rudix-mac/rudix/tree/2015/Ports/dtach</a></li>
+      <li>Port: <a href="https://github.com/rudix-mac/rudix/tree/master/Ports/dtach/Makefile">https://github.com/rudix-mac/rudix/tree/master/Ports/dtach/Makefile</a></li>
       <li>License: GPL</li>
     </ul>
     <h3 id='install'>Install</h3>
@@ -44,49 +44,55 @@ sudo rudix install dtach
     <table class='table table-hover'>
       <tr><th>OS X</th><th>Latest Version</th><th>Date</th><th>Size (MB)</th><th>SHA1</th></tr>
 <tr>
-  <td>Yosemite (10.10)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/2015/10.10/dtach-0.8-10.pkg">dtach-0.8-10.pkg</a></td>
-  <td>2014-10-22</td>
+  <td>El Capitan (10.11)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.11/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.04</td>
-  <td><small>ac0a49bee916ccdb7fad59b48414ce95eb1126aa</small></td>
+  <td><small>63af9ae6efc06e2ffab4942db065f6465ae36519</small></td>
+</tr>
+<tr>
+  <td>Yosemite (10.10)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.10/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
+  <td>0.04</td>
+  <td><small>63af9ae6efc06e2ffab4942db065f6465ae36519</small></td>
 </tr>
 <tr>
   <td>Mavericks (10.9)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/2015/10.9/dtach-0.8-10.pkg">dtach-0.8-10.pkg</a></td>
-  <td>2014-03-01</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.9/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.04</td>
-  <td><small>87b992d48ecccd1522b6d8c698c4f1e5a39da5ce</small></td>
+  <td><small>63af9ae6efc06e2ffab4942db065f6465ae36519</small></td>
 </tr>
 <tr>
   <td>Mountain Lion (10.8)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/2015/10.8/dtach-0.8-9.pkg">dtach-0.8-9.pkg</a></td>
-  <td>2013-03-02</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.8/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.04</td>
-  <td><small>c7d29f2db13c6458fda91d0934d570f662242768</small></td>
+  <td><small>63af9ae6efc06e2ffab4942db065f6465ae36519</small></td>
 </tr>
 <tr>
   <td>Lion (10.7)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/2015/10.7/dtach-0.8-9.pkg">dtach-0.8-9.pkg</a></td>
-  <td>2013-03-25</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.7/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.04</td>
-  <td><small>8cf41db9b77903b7d33c5a2f22336cd41f0748f7</small></td>
+  <td><small>63af9ae6efc06e2ffab4942db065f6465ae36519</small></td>
 </tr>
 <tr>
   <td>Snow Leopard (10.6)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/2015/10.6/dtach-0.8-9.pkg">dtach-0.8-9.pkg</a></td>
-  <td>2013-03-25</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.6/dtach-0.8-11.pkg">dtach-0.8-11.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.04</td>
-  <td><small>a4fde25a4a34975e25804d16b3022d406ad0e089</small></td>
+  <td><small>ca675659f75bccbec897013760e9d9a9f0fa637d</small></td>
 </tr>
     </table>
     <h3>Release Notes</h3> 
     <ul>
-    <li>Upgraded to version 0.8</li>
+    <li>Fix vulnerability <a href="http://www.cvedetails.com/cve/CVE-2012-3368/">CVE-2012-3368</a></li>
     </ul>
     <h3 id='usage'>Usage</h3>
 <pre>
-sudo rudix install dtach
-dtach --help
+dtach -A /var/tmp/top top
 </pre>
 
 

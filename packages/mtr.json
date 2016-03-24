@@ -3,5 +3,8 @@
  "name": "mtr",
  "site": "http://www.bitwizard.nl/mtr/",
  "title": "MTR",
- "usage": "sudo /usr/local/sbin/mtr 8.8.8.8",
+ "usage": "mtr rudix.org",
+ "notes": ["Upgraded to version 0.86",
+           "mtr binary is now /usr/local/bin/mtr, so it's on PATH",
+           "mtr binary has setuid on, don't need sudo"],
  "version": "0.86"}

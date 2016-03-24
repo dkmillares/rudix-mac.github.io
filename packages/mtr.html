@@ -45,38 +45,38 @@ sudo rudix install mtr
       <tr><th>OS X</th><th>Latest Version</th><th>Date</th><th>Size (MB)</th><th>SHA1</th></tr>
 <tr>
   <td>El Capitan (10.11)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.11/mtr-0.86-0.pkg">mtr-0.86-0.pkg</a></td>
-  <td>2016-03-21</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.11/mtr-0.86-1.pkg">mtr-0.86-1.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.08</td>
-  <td><small>ec4ed1bd0f0c1414421ca354e3809281d7ac11ca</small></td>
+  <td><small>62cf52c24c80ad20eb230f70385a579e456a0261</small></td>
 </tr>
 <tr>
   <td>Yosemite (10.10)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.10/mtr-0.86-0.pkg">mtr-0.86-0.pkg</a></td>
-  <td>2016-03-21</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.10/mtr-0.86-1.pkg">mtr-0.86-1.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.08</td>
-  <td><small>ec4ed1bd0f0c1414421ca354e3809281d7ac11ca</small></td>
+  <td><small>62cf52c24c80ad20eb230f70385a579e456a0261</small></td>
 </tr>
 <tr>
   <td>Mavericks (10.9)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.9/mtr-0.86-0.pkg">mtr-0.86-0.pkg</a></td>
-  <td>2016-03-21</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.9/mtr-0.86-1.pkg">mtr-0.86-1.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.08</td>
-  <td><small>ec4ed1bd0f0c1414421ca354e3809281d7ac11ca</small></td>
+  <td><small>62cf52c24c80ad20eb230f70385a579e456a0261</small></td>
 </tr>
 <tr>
   <td>Mountain Lion (10.8)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.8/mtr-0.86-0.pkg">mtr-0.86-0.pkg</a></td>
-  <td>2016-03-21</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.8/mtr-0.86-1.pkg">mtr-0.86-1.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.08</td>
-  <td><small>ec4ed1bd0f0c1414421ca354e3809281d7ac11ca</small></td>
+  <td><small>62cf52c24c80ad20eb230f70385a579e456a0261</small></td>
 </tr>
 <tr>
   <td>Lion (10.7)</td>
-  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.7/mtr-0.86-0.pkg">mtr-0.86-0.pkg</a></td>
-  <td>2016-03-21</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.7/mtr-0.86-1.pkg">mtr-0.86-1.pkg</a></td>
+  <td>2016-03-24</td>
   <td>0.08</td>
-  <td><small>ec4ed1bd0f0c1414421ca354e3809281d7ac11ca</small></td>
+  <td><small>62cf52c24c80ad20eb230f70385a579e456a0261</small></td>
 </tr>
 <tr>
   <td>Snow Leopard (10.6)</td>
@@ -89,10 +89,12 @@ sudo rudix install mtr
     <h3>Release Notes</h3> 
     <ul>
     <li>Upgraded to version 0.86</li>
+<li>mtr binary is now /usr/local/bin/mtr, so it's on PATH</li>
+<li>mtr binary has setuid on, don't need sudo</li>
     </ul>
     <h3 id='usage'>Usage</h3>
 <pre>
-sudo /usr/local/sbin/mtr 8.8.8.8
+mtr rudix.org
 </pre>
 
 
