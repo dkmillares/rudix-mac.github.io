@@ -3,5 +3,5 @@
  "name": "ncftp",
  "site": "http://www.ncftp.com/",
  "title": "NcFTP Client",
- "usage": "/usr/local/bin/ncftp",
+ "usage": "ncftp ftp.gnu.org",
  "version": "3.2.5"}
