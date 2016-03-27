@@ -1,7 +1,7 @@
 {"description": "The GNU gettext utilities are a set of tools that provides a framework to help produce multi-lingual messages",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "gettext",
  "site": "http://www.gnu.org/software/gettext/",
  "title": "GNU gettext",
  "usage": "info gettext",
- "version": "0.19.5"}
+ "version": "0.19.7"}
