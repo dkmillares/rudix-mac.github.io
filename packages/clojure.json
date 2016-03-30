@@ -3,5 +3,5 @@
  "name": "clojure",
  "site": "http://clojure.org/",
  "title": "Clojure",
- "usage": "/usr/local/bin/clojure",
- "version": "1.5.1"}
+ "usage": "clojure",
+ "version": "1.8.0"}
