@@ -1,7 +1,7 @@
 {"description": "Concurrent Versions System",
- "license": "GPL",
+ "license": "GPLv2+",
  "name": "cvs",
  "site": "http://www.nongnu.org/cvs/",
- "title": "Concurrent Versions System",
- "usage": "/usr/local/bin/cvs",
+ "title": "CVS",
+ "usage": "cvs --help",
  "version": "1.11.23"}
