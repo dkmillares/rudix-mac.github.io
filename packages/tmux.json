@@ -1,7 +1,7 @@
 {"description": "tmux is a terminal multiplexer, it enables a number of terminals (or windows) to be created, accessed, and controlled from a single screen",
  "license": "BSD",
  "name": "tmux",
- "site": "http://tmux.sourceforge.net/",
+ "site": "http://tmux.github.io",
  "title": "Terminal Multiplexer",
  "usage": "tmux --help",
- "version": "2.1"}
+ "version": "2.2"}
