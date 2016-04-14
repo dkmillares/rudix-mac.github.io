@@ -1,7 +1,7 @@
 {"description": "GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "wget",
  "site": "http://www.gnu.org/software/wget/",
  "title": "GNU Wget",
  "usage": "wget --help",
- "version": "1.16.3"}
+ "version": "1.17.1"}
