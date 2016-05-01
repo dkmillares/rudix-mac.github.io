@@ -3,5 +3,5 @@
  "name": "xz",
  "site": "http://tukaani.org/xz/",
  "title": "XZ Utils",
- "usage": "/usr/local/bin/xz --help",
- "version": "5.0.7"}
+ "usage": "xz --help",
+ "version": "5.2.2"}
