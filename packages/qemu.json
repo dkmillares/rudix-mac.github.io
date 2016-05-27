@@ -3,5 +3,5 @@
  "name": "qemu",
  "site": "http://wiki.qemu.org/",
  "title": "QEMU",
- "usage": "/usr/local/bin/qemu-system-x86_64",
- "version": "2.1.2"}
+ "usage": "qemu-system-x86_64",
+ "version": "2.6.0"}
