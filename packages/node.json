@@ -5,5 +5,5 @@
  "site": "http://nodejs.org/",
  "title": "NodeJS",
  "usage": "node --help\nnpm --help",
- "version": "0.12.7"
+ "version": "6.2.0"
 }
