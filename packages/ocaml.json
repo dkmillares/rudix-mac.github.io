@@ -1,7 +1,7 @@
 {"description": "The OCaml system is the main implementation of the Caml language",
- "license": "LGPL",
+ "license": "QPLv1+LGPLv2",
  "name": "ocaml",
  "site": "http://caml.inria.fr/",
  "title": "OCaml",
- "usage": "/usr/local/bin/ocaml",
- "version": "4.02.1"}
+ "usage": "ocaml",
+ "version": "4.03.0"}
