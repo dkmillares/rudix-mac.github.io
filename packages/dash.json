@@ -3,5 +3,5 @@
  "name": "dash",
  "site": "http://gondor.apana.org.au/~herbert/dash/",
  "title": "DASH",
- "usage": "/usr/local/bin/dash\nman dash",
- "version": "0.5.8"}
+ "usage": "dash",
+ "version": "0.5.9"}
