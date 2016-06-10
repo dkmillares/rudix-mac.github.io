@@ -1,7 +1,7 @@
 {"description": "The GNU Awk interpreter",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "gawk",
  "site": "http://www.gnu.org/software/gawk/",
  "title": "GNU awk",
- "usage": "/usr/local/bin/gawk --help",
- "version": "4.1.0"}
+ "usage": "gawk --help",
+ "version": "4.1.3"}
