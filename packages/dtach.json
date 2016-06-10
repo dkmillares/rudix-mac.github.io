@@ -1,8 +1,7 @@
 {"description": "dtach is a tiny program that emulates the detach feature of screen",
- "license": "GPL",
+ "license": "GPLv2",
  "name": "dtach",
  "site": "http://dtach.sourceforge.net",
- "title": "Dtach",
+ "title": "dtach",
  "usage": "dtach -A /var/tmp/top top",
- "notes": ["Fix vulnerability <a href=\"http://www.cvedetails.com/cve/CVE-2012-3368/\">CVE-2012-3368</a>"],
- "version": "0.8"}
+ "version": "0.9"}
