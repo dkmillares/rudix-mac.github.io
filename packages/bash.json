@@ -1,7 +1,6 @@
 {"description": "Bash is the shell, or command language interpreter, that will appear in the GNU operating system",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "bash",
- "revision": "0",
  "site": "http://www.gnu.org/software/bash/",
  "title": "GNU Bash",
  "usage": "/usr/local/bin/bash",
