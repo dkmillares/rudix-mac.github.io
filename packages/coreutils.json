@@ -1,7 +1,7 @@
 {"description": "The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "coreutils",
  "site": "http://www.gnu.org/software/coreutils/",
  "title": "GNU Core Utilities",
  "usage": "info coreutils",
- "version": "8.24"}
+ "version": "8.25"}
