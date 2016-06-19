@@ -1,7 +1,7 @@
 {"description": "The GNU Find Utilities are the basic directory searching utilities",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "findutils",
  "site": "http://www.gnu.org/software/findutils/",
  "title": "GNU Find Utilities",
  "usage": "open /usr/local/share/doc/findutils",
- "version": "4.4.2"}
+ "version": "4.6.0"}
