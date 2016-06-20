@@ -1,7 +1,7 @@
 {"description": "Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "screen",
  "site": "http://www.gnu.org/software/screen/",
  "title": "GNU Screen",
  "usage": "/usr/local/bin/screen --help",
- "version": "4.2.1"}
+ "version": "4.4.0"}
