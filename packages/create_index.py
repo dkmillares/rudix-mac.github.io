@@ -23,7 +23,7 @@ def build_table(jsons):
                 del data['notes']
             if data.has_key('downloads'):
                 del data['downloads']
-            data['link'] = '{name}.html"'.format(name=data['name'])
+            data['link'] = '{name}.html'.format(name=data['name'])
             data = {k:escape(v) for k, v in data.items()}
             html = row.format(**data)
             rows.append(html)
