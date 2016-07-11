@@ -3,5 +3,5 @@
  "name": "datamash",
  "site": "https://www.gnu.org/software/datamash/",
  "title": "GNU Datamash",
- "usage": "/usr/local/bin/datamash",
- "version": "1.0.6"}
+ "usage": "datamash",
+ "version": "1.1.0"}
