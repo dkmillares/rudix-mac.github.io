@@ -1,0 +1,8 @@
+{ "site": "https://luarocks.org/",
+  "title": "LuaRocks",
+  "name": "luarocks",
+  "version": "2.3.0",
+  "license": "MIT",
+  "usage": "luarocks help",
+  "description": "LuaRocks is the package manager for Lua modules"
+}
