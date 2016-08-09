@@ -1,0 +1,8 @@
+{ "site": "https://www.wxwidgets.org/",
+  "title": "Wxwidgets",
+  "description": "Cross-platform GUI library.",
+  "name": "wxwidgets",
+  "version": "3.1.0",
+  "license": "LGPL",
+  "usage": "wx-config --help"
+}
