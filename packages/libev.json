@@ -1,7 +1,7 @@
-{"description": "Full-featured and high-performance event loop that is loosely modelled after libevent",
- "license": "BSD/GPL",
+{"description": "Full-featured and high-performance event loop",
+ "license": "BSD|GPLv2",
  "name": "libev",
  "site": "http://software.schmorp.de/pkg",
  "title": "Libev",
  "usage": "man ev",
- "version": "4.20"}
+ "version": "4.22"}
