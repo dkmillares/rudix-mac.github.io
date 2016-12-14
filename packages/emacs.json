@@ -1,7 +1,7 @@
 {"description": "GNU Emacs is an extensible, customizable text editor and more",
- "license": "GPL",
+ "license": "GPLv3",
  "name": "emacs",
- "site": "http://www.gnu.org/software/emacs/",
+ "site": "https://www.gnu.org/software/emacs/",
  "title": "GNU Emacs",
- "usage": "emacs-24.5 --help",
- "version": "24.5"}
+ "usage": "/usr/local/bin/emacs --help",
+ "version": "25.1"}
