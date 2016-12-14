@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
+  <title>Rudix &middot; Packages</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="../media/img/favicon.png">
-  <title>Rudix • Packages</title>
+  <meta name="google-site-verification" content="bD1PgBeaOQNxJ0KMyzj9lXbdO3KUzHzFWAAzwQv9q8Q" />
   <meta name="author" content="Rudá Moura (Rudix)">
   <meta name="description" content="Rudix packages">
+  <link rel="shortcut icon" href="../media/img/favicon.png">
   <link href="../media/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="../media/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
   <link href="../media/css/overwrite.css" rel="stylesheet" type="text/css">
-  <meta name="google-site-verification" content="bD1PgBeaOQNxJ0KMyzj9lXbdO3KUzHzFWAAzwQv9q8Q" />
 </head>
 <body>
   <div class="navbar navbar-inverse navbar-fixed-top">
@@ -22,44 +21,33 @@
           <li><a href="../index.html">Home</a></li>
           <li class="active"><a href="#">Packages</a></li>
           <li><a href="../documentation.html">Documentation</a></li>
-          <li><a href="https://github.com/rudix-mac/rudix/">GitHub</a></li>
+          <li><a href="https://github.com/rudix-mac/rudix/">Developers</a></li>
+	  <li><a href="../contribute.html">Contribute</a></li>
         </ul>
       </div>
     </div>
   </div>
   <div class="container">
     <h1>Packages</h1>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wSso57KEqJI" frameborder="0" allowfullscreen></iframe>
-
-    <h2 id="securitynote">Security Note</h2>
-
     <p>You will probably get <strong>can't be opened because it is
     from an unidentified developer</strong> when you're trying to
     install some packages by web downloading. It means that the
     package was not registered (signed), but you can optionally
-    trust Rudix developers and install it anyway.</p>
-
+    trust us and install it anyway.</p>
     <div class="alert">
       <p>Here is how to <strong>bypass once your security
       settings</strong>:</p>
-
       <ol>
         <li>Press the <code>Control</code> key when clicking the
         package.</li>
-
         <li>Choose “Open” from the pop-up menu.</li>
-
-        <li>Click on ”Open button”.</li>
+        <li>Click on “Open button”.</li>
       </ol>
-
       <p>And now follow the installation instructions.</p>
     </div>
-
     <p>Reference: <a href="https://support.apple.com/en-us/HT202491">OS X: About Gatekeeper</a>.</p>
-
-	<h2>All Packages Available</h2>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wSso57KEqJI" frameborder="0" allowfullscreen></iframe>
+    <h2>Packages Available</h2>
     <table class="table table-hover">
       <thead>
         <tr>
