@@ -4,5 +4,4 @@
  "site": "http://www.gnu.org/software/bash/",
  "title": "GNU Bash",
  "usage": "/usr/local/bin/bash",
- "notes": ["CVE-2014-6271", "<a href=\"http://ftp.gnu.org/gnu/bash/bash-4.3-patches/\">Patches 001-030</a>"],
- "version": "4.3"}
+ "version": "4.4"}
