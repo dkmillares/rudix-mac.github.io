@@ -1,7 +1,7 @@
 {"description": "QEMU is a generic and open source machine emulator and virtualizer",
- "license": "GPL",
+ "summary": "QEMU: the FAST! processor emulator",
+ "license": "GPLv2",
  "name": "qemu",
- "site": "http://wiki.qemu.org/",
+ "site": "https://www.qemu.org",
  "title": "QEMU",
- "usage": "qemu-system-x86_64",
- "version": "2.6.0"}
+ "version": "2.11.1"}

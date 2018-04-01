@@ -4,4 +4,4 @@
  "site": "http://jonas.nitro.dk/tig/",
  "title": "Text-Mode Interface for Git",
  "usage": "tig --help",
- "version": "2.1.1"}
+ "version": "2.3.3"}

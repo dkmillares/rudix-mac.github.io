@@ -16,19 +16,27 @@
   <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
-        <a class="brand" href="http://rudix.org/">Rudix</a>
         <ul class="nav">
-          <li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Rudix</a></li>
           <li class="active"><a href="#">Packages</a></li>
-          <li><a href="../documentation.html">Documentation</a></li>
           <li><a href="https://github.com/rudix-mac/rudix/">Developers</a></li>
-	  <li><a href="../contribute.html">Contribute</a></li>
         </ul>
       </div>
     </div>
   </div>
   <div class="container">
-    <h1>Packages</h1>
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Version</th>
+          <th>Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+{packages}
+      </tbody>
+    </table>
     <p>You will probably get <strong>can't be opened because it is
     from an unidentified developer</strong> when you're trying to
     install some packages by web downloading. It means that the
@@ -46,21 +54,6 @@
       <p>And now follow the installation instructions.</p>
     </div>
     <p>Reference: <a href="https://support.apple.com/en-us/HT202491">OS X: About Gatekeeper</a>.</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wSso57KEqJI" frameborder="0" allowfullscreen></iframe>
-    <h2>Packages Available</h2>
-    <table class="table table-hover">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Version</th>
-          <th>Description</th>
-          <th>License</th>
-        </tr>
-      </thead>
-      <tbody>
-{packages}
-      </tbody>
-    </table>
   </div>
   <script src="../media/js/jquery.min.js"></script>
   <script src="../media/js/bootstrap.min.js"></script>
