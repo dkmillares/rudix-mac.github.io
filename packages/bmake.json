@@ -1,7 +1,0 @@
-{ "description": "bmake is derived from NetBSD's make(1)",
-  "site": "http://crufty.net/help/sjg/bmake.html",
-  "license": "BSD",
-  "name": "bmake",
-  "title": "bmake",
-  "version": "20170812",
-  "usage": "bmake" }

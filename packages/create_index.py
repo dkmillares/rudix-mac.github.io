@@ -15,7 +15,7 @@ def read_index_template(filename='index.html.in'):
 
 def build_table(jsons):
     rows = []
-    row = '<tr><td><a href="{link}">{name}</a></td><td>{version}</td><td>{title}</td></tr>'
+    row = '<tr><td><a href="{link}">{name}</a></td><td>{version}</td><td>{title}</td><td>{license}</td></tr>'
     for j in jsons:
         with open(j) as f:
             data = json.load(f)

@@ -15,30 +15,93 @@
   <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
+        <a class="brand" href="http://rudix.org/">Rudix</a>
         <ul class="nav">
-          <li><a href="../index.html">Rudix</a></li>
+          <li><a href="../index.html">Home</a></li>
           <li class="active"><a href="index.html">Packages</a></li>
+          <li><a href="../documentation.html">Documentation</a></li>
           <li><a href="https://github.com/rudix-mac/rudix">Developers</a></li>
+	  <li><a href="../contribute.html">Contribute</a></li>
         </ul>
       </div>
     </div>
   </div>
   <div class="container">
-    <p>Dovecot (Secure Imap Server).</p>
+    <h1>Dovecot (Secure IMAP server)</h1>
+    <p>Dovecot (Secure Imap Server)</p>
     <ul>
-      <li>Name: dovecot</li>
-      <li>Version: 2.2.15</li>
-      <li>License: MIT+LGPL</li>
       <li>Site: <a href="http://dovecot.org/">http://dovecot.org/</a></li>
-      <li>Download: <a href="https://github.com/rudix-mac/pkg/raw/master/dovecot-2.2.15.pkg">dovecot-2.2.15.pkg</a></li>
+      <li>Port: <a href="https://github.com/rudix-mac/rudix/tree/master/Ports/dovecot/Makefile">https://github.com/rudix-mac/rudix/tree/master/Ports/dovecot/Makefile</a></li>
+      <li>License: MIT+LGPL</li>
     </ul>
-    <p>Help maintain this package, please donate!<p>
-  	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  	  <input type="hidden" name="cmd" value="_s-xclick">
-  	  <input type="hidden" name="hosted_button_id" value="8DJE9ESM8L4GW">
-  	  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-  	  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-  	</form>
+    <h3 id='install'>Install</h3>
+<pre>
+sudo rudix install dovecot
+</pre>
+    <h3 id='downloads'>Downloads</h3>
+    <table class='table table-hover'>
+      <tr><th>OS X</th><th>Latest Version</th><th>Date</th><th>Size (MB)</th><th>SHA1</th></tr>
+<tr>
+  <td>Sierra (10.12)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.12/dovecot-2.2.15-0.pkg">dovecot-2.2.15-0.pkg</a></td>
+  <td>2015-10-23</td>
+  <td>3.36</td>
+  <td><small>b2a2072aec5638af71ee9e328e9b606ab855d17f</small></td>
+</tr>
+<tr>
+  <td>El Capitan (10.11)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.11/dovecot-2.2.15-0.pkg">dovecot-2.2.15-0.pkg</a></td>
+  <td>2015-10-23</td>
+  <td>3.36</td>
+  <td><small>b2a2072aec5638af71ee9e328e9b606ab855d17f</small></td>
+</tr>
+<tr>
+  <td>Yosemite (10.10)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.10/dovecot-2.2.15-0.pkg">dovecot-2.2.15-0.pkg</a></td>
+  <td>2014-11-12</td>
+  <td>3.36</td>
+  <td><small>b2a2072aec5638af71ee9e328e9b606ab855d17f</small></td>
+</tr>
+<tr>
+  <td>Mavericks (10.9)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.9/dovecot-2.2.13-0.pkg">dovecot-2.2.13-0.pkg</a></td>
+  <td>2014-06-29</td>
+  <td>3.16</td>
+  <td><small>d3f6fea17d3ba71426a6a099cdb4a8b828319eb4</small></td>
+</tr>
+<tr>
+  <td>Mountain Lion (10.8)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.8/dovecot-2.1.7-1.pkg">dovecot-2.1.7-1.pkg</a></td>
+  <td>2013-07-07</td>
+  <td>2.61</td>
+  <td><small>17519cd4822a8522e6b5aa5ce24989dfa3a23f65</small></td>
+</tr>
+<tr>
+  <td>Lion (10.7)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.7/dovecot-2.1.7-1.pkg">dovecot-2.1.7-1.pkg</a></td>
+  <td>2013-07-07</td>
+  <td>2.61</td>
+  <td><small>8eda33c153889bc744796da052a40d82a8c0761e</small></td>
+</tr>
+<tr>
+  <td>Snow Leopard (10.6)</td>
+  <td><a href="https://raw.githubusercontent.com/rudix-mac/packages/master/10.6/dovecot-2.1.7-1.pkg">dovecot-2.1.7-1.pkg</a></td>
+  <td>2013-07-07</td>
+  <td>4.15</td>
+  <td><small>86b57752006ca888e59185fc98a815c1b6e2a9b6</small></td>
+</tr>
+    </table>
+    <h3>Release Notes</h3> 
+    <ul>
+    <li>Upgraded to version 2.2.15</li>
+    </ul>
+    <h3 id='usage'>Usage</h3>
+<pre>
+/usr/local/sbin/dovecot
+</pre>
+
+
+
   </div>
   <script src="../media/js/jquery.min.js"></script>
   <script src="../media/js/bootstrap.min.js"></script>

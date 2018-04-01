@@ -95,13 +95,6 @@ def update_port(d):
     d['port'] = '<a href="%s">%s</a>' % (link, link)
     return d
 
-def update_download(d):
-    link = 'https://github.com/rudix-mac/pkg/raw/master/%s'
-    pkg = d['name'] + '-' + d['version'] + '.pkg'
-    url = link % pkg
-    d['download'] = '<a href="%s">%s</a>' % (url, pkg)
-    return d
-
 def update_notes(d):
     if d.has_key('notes'):
         if isinstance(d['notes'], str):
@@ -136,7 +129,15 @@ def output_html(stream, template, package):
     # Expand downloads
     downloads = []
     downloads.append('<tr><th>OS X</th><th>Latest Version</th><th>Date</th><th>Size (MB)</th><th>SHA1</th></tr>')
-    package['downloads'] = 'XXX'
+    for download in package['downloads']:
+        downloads.append('<tr>')
+        downloads.append('  <td>%s (%s)</td>' % (OSX_NAMES[download['osx']], download['osx']))
+        downloads.append('  <td><a href="%s">%s</a></td>' % ( download['url']+download['pkg'], download['pkg']))
+        downloads.append('  <td>%s</td>' % download['date'])
+        downloads.append('  <td>%.2f</td>' % download['size'])
+        downloads.append('  <td><small>%s</small></td>' % download['sha1'])
+        downloads.append('</tr>')
+    package['downloads'] = '\n'.join(downloads)
     html = template.format(**package)
     stream.write(html)
 
@@ -147,10 +148,11 @@ if __name__ == '__main__':
     parser.add_argument('template_file', type=str)
     parser.add_argument('package_info_file', type=str)
     args = parser.parse_args()
+    manifests = parse_all_manifests()
     tmpl = open(args.template_file).read()
     d = loads(open(args.package_info_file).read())
+    d = update_downloads(manifests, d)
     d = update_port(d)
-    d = update_download(d)
     d = update_notes(d)
     d = update_files(d)
     output_html(args.output, tmpl, d)

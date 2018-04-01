@@ -4,4 +4,4 @@
  "site": "http://redis.io/",
  "title": "Redis",
  "usage": "redis-server --help",
- "version": "4.0.9"}
+ "version": "3.0.3"}
