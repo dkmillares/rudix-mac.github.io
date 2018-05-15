@@ -1,7 +1,9 @@
-{"description": "Zsync is a file transfer program",
- "license": "Artistic License",
- "name": "zsync",
- "site": "http://zsync.moria.org.uk/",
- "title": "Zsync",
- "usage": "zsync --help",
- "version": "0.6.2"}
+{
+    "description": "Zsync is a file transfer program",
+    "license": "Artistic License",
+    "name": "zsync",
+    "site": "http://zsync.moria.org.uk/",
+    "title": "Zsync",
+    "usage": "zsync --help",
+    "version": "0.6.2"
+}

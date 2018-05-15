@@ -1,7 +1,9 @@
-{ "name": "autoconf",
-  "title": "GNU Autoconf",
-  "description": "Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages",
-  "site": "http://www.gnu.org/software/autoconf/",
-  "license": "GPL",
-  "version": "2.69",
-  "usage": "autoconf --help" }
+{
+    "description": "Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages",
+    "license": "GPL",
+    "name": "autoconf",
+    "site": "http://www.gnu.org/software/autoconf/",
+    "title": "GNU Autoconf",
+    "usage": "autoconf --help",
+    "version": "2.69"
+}

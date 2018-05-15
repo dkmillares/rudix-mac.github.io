@@ -1,7 +1,9 @@
-{"description": "GNU Aspell spell checker",
- "license": "LGPL",
- "name": "aspell",
- "site": "http://aspell.net/",
- "title": "GNU Aspell",
- "usage": "/usr/local/bin/aspell",
- "version": "0.60.6.1"}
+{
+    "description": "GNU Aspell spell checker",
+    "license": "LGPL",
+    "name": "aspell",
+    "site": "http://aspell.net/",
+    "title": "GNU Aspell",
+    "usage": "/usr/local/bin/aspell",
+    "version": "0.60.6.1"
+}

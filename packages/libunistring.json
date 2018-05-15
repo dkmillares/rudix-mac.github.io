@@ -1,7 +1,9 @@
-{"description": "Libunistring provides functions for manipulating Unicode strings",
- "license": "GPL",
- "name": "libunistring",
- "site": "http://www.gnu.org/s/libunistring/",
- "title": "GNU libunistring",
- "usage": "open /usr/local/share/doc/libunistring",
- "version": "0.9.5"}
+{
+    "description": "Libunistring provides functions for manipulating Unicode strings",
+    "license": "GPL",
+    "name": "libunistring",
+    "site": "http://www.gnu.org/s/libunistring/",
+    "title": "GNU libunistring",
+    "usage": "open /usr/local/share/doc/libunistring",
+    "version": "0.9.9"
+}

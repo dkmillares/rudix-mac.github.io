@@ -1,7 +1,9 @@
-{"description": "Libxmp loads the module and renders the sound as linear PCM samples in a buffer at rate and format specified by the user",
- "license": "LGPL",
- "name": "libxmp",
- "site": "http://xmp.sourceforge.net",
- "title": "Libxmp",
- "usage": "open /usr/local/share/doc/libxmp/",
- "version": "4.2.7"}
+{
+    "description": "Libxmp loads the module and renders the sound as linear PCM samples in a buffer at rate and format specified by the user",
+    "license": "LGPL",
+    "name": "libxmp",
+    "site": "http://xmp.sourceforge.net",
+    "title": "Libxmp",
+    "usage": "open /usr/local/share/doc/libxmp/",
+    "version": "4.4.1"
+}

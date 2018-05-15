@@ -1,7 +1,9 @@
-{"site": "http://www.libressl.org",
- "title": "LibreSSL",
- "description": "LibreSSL is a version of the TLS/crypto stack forked from OpenSSL",
- "name": "libressl",
- "version": "2.3.4",
- "license": "OpenSSL License",
- "usage": "/usr/local/bin/openssl help"}
+{
+    "description": "LibreSSL is a version of the TLS/crypto stack forked from OpenSSL",
+    "license": "OpenSSL License",
+    "name": "libressl",
+    "site": "http://www.libressl.org",
+    "title": "LibreSSL",
+    "usage": "/usr/local/bin/openssl help",
+    "version": "2.6.4"
+}

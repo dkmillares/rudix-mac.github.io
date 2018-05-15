@@ -1,7 +1,9 @@
-{"description": "Perl Compatible Regular Expressions library",
- "license": "BSD",
- "name": "pcre",
- "site": "http://www.pcre.org/",
- "title": "PCRE",
- "usage": "pcre-config --help\npcregrep --help",
- "version": "8.37"}
+{
+    "description": "Perl Compatible Regular Expressions library",
+    "license": "BSD",
+    "name": "pcre",
+    "site": "http://www.pcre.org/",
+    "title": "PCRE",
+    "usage": "pcre-config --help\npcregrep --help",
+    "version": "8.42"
+}

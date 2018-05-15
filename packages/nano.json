@@ -1,7 +1,9 @@
-{"description": "GNU Nano",
- "license": "GPL",
- "name": "nano",
- "site": "http://www.nano-editor.org",
- "title": "GNU nano",
- "usage": "/usr/local/bin/nano",
- "version": "2.2.6"}
+{
+    "description": "GNU Nano",
+    "license": "GPL",
+    "name": "nano",
+    "site": "http://www.nano-editor.org",
+    "title": "GNU nano",
+    "usage": "/usr/local/bin/nano",
+    "version": "2.9.4"
+}

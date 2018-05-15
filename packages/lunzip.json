@@ -1,7 +1,9 @@
-{ "site": "http://www.nongnu.org/lzip/",
-  "title": "Lunzip",
-  "name": "lunzip",
-  "version": "1.7",
-  "license": "GPL",
-  "description": "Lunzip is a decompressor for lzip files",
-  "usage": "lunzip --help" }
+{
+    "description": "Lunzip is a decompressor for lzip files",
+    "license": "GPL",
+    "name": "lunzip",
+    "site": "http://www.nongnu.org/lzip/",
+    "title": "Lunzip",
+    "usage": "lunzip --help",
+    "version": "1.9"
+}

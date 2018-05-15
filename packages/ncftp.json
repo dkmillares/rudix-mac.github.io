@@ -1,7 +1,9 @@
-{"description": "NcFTP is a set of FREE application programs implementing the File Transfer Protocol (FTP)",
- "license": "The Clarified Artistic License",
- "name": "ncftp",
- "site": "http://www.ncftp.com/",
- "title": "NcFTP Client",
- "usage": "ncftp ftp.gnu.org",
- "version": "3.2.5"}
+{
+    "description": "NcFTP is a set of FREE application programs implementing the File Transfer Protocol (FTP)",
+    "license": "The Clarified Artistic License",
+    "name": "ncftp",
+    "site": "http://www.ncftp.com/",
+    "title": "NcFTP Client",
+    "usage": "ncftp ftp.gnu.org",
+    "version": "3.2.6"
+}

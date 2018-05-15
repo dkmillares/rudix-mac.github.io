@@ -1,7 +1,9 @@
-{"description": "Redis is an open source, advanced key-value store",
- "license": "BSD",
- "name": "redis",
- "site": "http://redis.io/",
- "title": "Redis",
- "usage": "redis-server --help",
- "version": "3.0.3"}
+{
+    "description": "Redis is an open source, advanced key-value store",
+    "license": "BSD",
+    "name": "redis",
+    "site": "http://redis.io/",
+    "title": "Redis",
+    "usage": "redis-server --help",
+    "version": "4.0.9"
+}

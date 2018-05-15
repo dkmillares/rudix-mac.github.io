@@ -1,7 +1,9 @@
-{"description": "GNU ed is a line-oriented text editor",
- "license": "GPLv3",
- "name": "ed",
- "site": "http://www.gnu.org/software/ed/",
- "title": "GNU ed",
- "usage": "gnued --help",
- "version": "1.13"}
+{
+    "description": "GNU ed is a line-oriented text editor",
+    "license": "GPLv3",
+    "name": "ed",
+    "site": "http://www.gnu.org/software/ed/",
+    "title": "GNU ed",
+    "usage": "gnued --help",
+    "version": "1.14.2"
+}

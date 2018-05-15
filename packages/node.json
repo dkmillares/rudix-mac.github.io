@@ -1,9 +1,9 @@
 {
- "description": "Node.js is a platform for easily building fast, scalable network applications",
- "license": "BSD",
- "name": "node",
- "site": "http://nodejs.org/",
- "title": "NodeJS",
- "usage": "node --help\nnpm --help",
- "version": "6.2.0"
+    "description": "Node.js is a platform for easily building fast, scalable network applications",
+    "license": "BSD",
+    "name": "node",
+    "site": "http://nodejs.org/",
+    "title": "NodeJS",
+    "usage": "node --help\nnpm --help",
+    "version": "9.5.0"
 }

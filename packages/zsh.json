@@ -1,7 +1,9 @@
-{"description": "Zsh is a shell designed for interactive use, although it is also a powerful scripting language",
- "license": "MIT-like",
- "name": "zsh",
- "site": "http://zsh.sourceforge.net/",
- "title": "Z shell",
- "usage": "/usr/local/bin/zsh --help",
- "version": "5.3"}
+{
+    "description": "Zsh is a shell designed for interactive use, although it is also a powerful scripting language",
+    "license": "MIT-like",
+    "name": "zsh",
+    "site": "http://zsh.sourceforge.net/",
+    "title": "Z shell",
+    "usage": "/usr/local/bin/zsh --help",
+    "version": "5.4.2"
+}

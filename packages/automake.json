@@ -1,7 +1,9 @@
-{ "description": "Automake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards",
-  "site": "http://www.gnu.org/software/automake/",
-  "license": "GPL",
-  "name": "automake",
-  "title": "GNU Automake",
-  "version": "1.15",
-  "usage": "automake" }
+{
+    "description": "Automake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards",
+    "license": "GPL",
+    "name": "automake",
+    "site": "http://www.gnu.org/software/automake/",
+    "title": "GNU Automake",
+    "usage": "automake",
+    "version": "1.15"
+}

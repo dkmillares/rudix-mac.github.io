@@ -7,7 +7,9 @@ body > .container { padding-top: 60px;
 
 h1, h2, h3, h4 { font-family: Helvetica Neue, Verdana, Helvetica; }
 
-h1 { font-size: 32px; }
+h1 { font-size: 125%; }
+h2 { font-size: 113%  }
+h3 { font-size: 109%  }
 
 pre, code { font-family: Monaco, Andale Mono, Monospace;
             font-size: 14px; background: Snow;

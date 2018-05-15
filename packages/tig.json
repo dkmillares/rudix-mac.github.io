@@ -1,7 +1,9 @@
-{"description": "Tig is an ncurses-based text-mode interface for git",
- "license": "GPLv2",
- "name": "tig",
- "site": "http://jonas.nitro.dk/tig/",
- "title": "Text-Mode Interface for Git",
- "usage": "tig --help",
- "version": "2.1.1"}
+{
+    "description": "Tig is an ncurses-based text-mode interface for git",
+    "license": "GPLv2",
+    "name": "tig",
+    "site": "http://jonas.nitro.dk/tig/",
+    "title": "Text-Mode Interface for Git",
+    "usage": "tig --help",
+    "version": "2.3.3"
+}

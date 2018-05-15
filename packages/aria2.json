@@ -1,7 +1,9 @@
-{ "name": "aria2",
-  "title": "aria2 download utility",
-  "description": "aria2 is a lightweight multi-protocol & multi-source download utility operated in command-line",
-  "site": "http://aria2.sourceforge.net/",
-  "license": "GPL",
-  "usage": "/usr/local/bin/aria2c",
-  "version": "1.18.8" }
+{
+    "description": "aria2 is a lightweight multi-protocol & multi-source download utility operated in command-line",
+    "license": "GPL",
+    "name": "aria2",
+    "site": "http://aria2.sourceforge.net/",
+    "title": "aria2 download utility",
+    "usage": "/usr/local/bin/aria2c",
+    "version": "1.31.0"
+}

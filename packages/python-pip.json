@@ -1,7 +1,9 @@
-{"description": "The PyPA recommended tool for installing Python packages",
- "license": "MIT",
- "name": "python-pip",
- "site": "http://pypi.python.org/pypi/pip",
- "title": "Python pip",
- "usage": "pip --help",
- "version": "8.1.0"}
+{
+    "description": "The PyPA recommended tool for installing Python packages",
+    "license": "MIT",
+    "name": "python-pip",
+    "site": "http://pypi.python.org/pypi/pip",
+    "title": "Python pip",
+    "usage": "pip --help",
+    "version": "9.0.3"
+}

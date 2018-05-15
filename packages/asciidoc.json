@@ -1,7 +1,9 @@
-{"description": "AsciiDoc is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs",
- "license": "GPLv2",
- "name": "asciidoc",
- "site": "http://www.methods.co.nz/asciidoc/",
- "title": "AsciiDoc",
- "usage": "asciidoc --help",
- "version": "8.6.9"}
+{
+    "description": "AsciiDoc is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs",
+    "license": "GPLv2",
+    "name": "asciidoc",
+    "site": "http://www.methods.co.nz/asciidoc/",
+    "title": "AsciiDoc",
+    "usage": "asciidoc --help",
+    "version": "8.6.9"
+}

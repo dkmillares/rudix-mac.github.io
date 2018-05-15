@@ -1,7 +1,9 @@
-{"description": "GNU M4 is an implementation of the traditional Unix macro processor",
- "name": "m4",
- "title": "GNU M4",
- "site": "http://www.gnu.org/software/m4/",
- "license": "GPL",
- "usage": "/usr/local/bin/m4",
- "version": "1.4.17"}
+{
+    "description": "GNU M4 is an implementation of the traditional Unix macro processor",
+    "license": "GPL",
+    "name": "m4",
+    "site": "http://www.gnu.org/software/m4/",
+    "title": "GNU M4",
+    "usage": "/usr/local/bin/m4",
+    "version": "1.4.18"
+}

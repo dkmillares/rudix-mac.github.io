@@ -1,8 +1,10 @@
-{"description": "LibYAML is a YAML 1.1 parser and emitter written in C",
- "license": "MIT",
- "name": "libyaml",
- "site": "http://pyyaml.org/",
- "title": "LibYAML",
- "usage": "open /usr/local/share/doc/libyaml",
- "version": "0.1.5",
- "notes": "Featuring version 0.1.5"}
+{
+    "description": "LibYAML is a YAML 1.1 parser and emitter written in C",
+    "license": "MIT",
+    "name": "libyaml",
+    "notes": "Featuring version 0.1.5",
+    "site": "http://pyyaml.org/",
+    "title": "LibYAML",
+    "usage": "open /usr/local/share/doc/libyaml",
+    "version": "0.1.7"
+}

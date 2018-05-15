@@ -1,7 +1,9 @@
-{"description": "ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++",
- "license": "GPL",
- "name": "ccache",
- "site": "http://ccache.samba.org/",
- "title": "ccache",
- "usage": "ccache --help",
- "version": "3.2.5"}
+{
+    "description": "ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++",
+    "license": "GPL",
+    "name": "ccache",
+    "site": "http://ccache.samba.org/",
+    "title": "ccache",
+    "usage": "ccache --help",
+    "version": "3.3.6"
+}

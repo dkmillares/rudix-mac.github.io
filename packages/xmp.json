@@ -1,7 +1,9 @@
-{"description": "The Extended Module Player, or xmp, is a portable command-line module player",
- "license": "GPL",
- "name": "xmp",
- "site": "http://xmp.sourceforge.net",
- "title": "Extended Module player",
- "usage": "xmp --help",
- "version": "4.0.7"}
+{
+    "description": "The Extended Module Player, or xmp, is a portable command-line module player",
+    "license": "GPL",
+    "name": "xmp",
+    "site": "http://xmp.sourceforge.net",
+    "title": "Extended Module player",
+    "usage": "xmp --help",
+    "version": "4.1.0"
+}

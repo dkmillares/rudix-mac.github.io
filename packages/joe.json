@@ -1,7 +1,9 @@
-{"description": "JOE is a full featured terminal-based screen editor",
- "license": "GPLv2",
- "name": "joe",
- "site": "http://joe-editor.sourceforge.net",
- "title": "JOE",
- "usage": "joe --help",
- "version": "4.2"}
+{
+    "description": "JOE is a full featured terminal-based screen editor",
+    "license": "GPLv2",
+    "name": "joe",
+    "site": "http://joe-editor.sourceforge.net",
+    "title": "JOE",
+    "usage": "joe --help",
+    "version": "4.6"
+}

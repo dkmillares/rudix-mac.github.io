@@ -1,7 +1,9 @@
-{"description": "Multilanguage implementation of ctags",
- "license": "GPL",
- "name": "ctags",
- "site": "http://ctags.sourceforge.net/",
- "title": "Exuberant Ctags",
- "usage": "exuberant-ctags",
- "version": "5.8"}
+{
+    "description": "Multilanguage implementation of ctags",
+    "license": "GPL",
+    "name": "ctags",
+    "site": "http://ctags.sourceforge.net/",
+    "title": "Exuberant Ctags",
+    "usage": "exuberant-ctags",
+    "version": "5.8"
+}

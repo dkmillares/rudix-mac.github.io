@@ -1,10 +1,14 @@
-{"description": "GNU a2ps is an Any to PostScript filter",
- "site": "http://www.gnu.org/software/a2ps/",
- "license": "GPLv3",
- "usage": "a2ps --help\ninfo a2ps",
- "name": "a2ps",
- "version": "4.14",
- "title": "GNU a2ps",
- "notes": ["Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-1593\">CVE-2001-1593</a>",
-           "Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0466\">CVE-2014-0466</a>",
-           "Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8107\">CVE-2015-8107</a>"]}
+{
+    "description": "GNU a2ps is an Any to PostScript filter",
+    "license": "GPLv3",
+    "name": "a2ps",
+    "notes": [
+        "Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-1593\">CVE-2001-1593</a>",
+        "Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0466\">CVE-2014-0466</a>",
+        "Fix vulnerability <a href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8107\">CVE-2015-8107</a>"
+    ],
+    "site": "http://www.gnu.org/software/a2ps/",
+    "title": "GNU a2ps",
+    "usage": "a2ps --help\ninfo a2ps",
+    "version": "4.14"
+}

@@ -1,7 +1,9 @@
-{"description": "Fast, multi-threaded malloc() and nifty performance analysis tools",
- "license": "BSD",
- "name": "gperftools",
- "site": "http://code.google.com/p/gperftools/",
- "title": "Gperftools",
- "usage": "open /usr/local/share/doc/pprof",
- "version": "2.4"}
+{
+    "description": "Fast, multi-threaded malloc() and nifty performance analysis tools",
+    "license": "BSD",
+    "name": "gperftools",
+    "site": "http://code.google.com/p/gperftools/",
+    "title": "Gperftools",
+    "usage": "open /usr/local/share/doc/pprof",
+    "version": "2.6.3"
+}

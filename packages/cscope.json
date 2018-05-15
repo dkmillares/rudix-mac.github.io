@@ -1,7 +1,9 @@
-{"description": "Cscope is a developer's tool for browsing source code",
- "license": "BSD",
- "name": "cscope",
- "site": "http://cscope.sourceforge.net/",
- "title": "Cscope",
- "usage": "cscope",
- "version": "15.8b"}
+{
+    "description": "Cscope is a developer's tool for browsing source code",
+    "license": "BSD",
+    "name": "cscope",
+    "site": "http://cscope.sourceforge.net/",
+    "title": "Cscope",
+    "usage": "cscope",
+    "version": "15.8b"
+}

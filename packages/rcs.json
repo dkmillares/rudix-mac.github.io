@@ -1,7 +1,9 @@
-{"description": "The Revision Control System (RCS)",
- "license": "GPLv3",
- "name": "rcs",
- "site": "http://www.gnu.org/software/rcs/",
- "title": "GNU RCS",
- "usage": "rcs --help",
- "version": "5.9.4"}
+{
+    "description": "The Revision Control System (RCS)",
+    "license": "GPLv3",
+    "name": "rcs",
+    "site": "http://www.gnu.org/software/rcs/",
+    "title": "GNU RCS",
+    "usage": "rcs --help",
+    "version": "5.9.4"
+}

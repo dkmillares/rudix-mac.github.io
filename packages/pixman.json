@@ -1,7 +1,9 @@
-{"description": "Pixman is a low-level software library for pixel manipulation",
- "license": "GPL",
- "name": "pixman",
- "site": "http://pixman.org",
- "title": "Pixman",
- "usage": "open /usr/local/share/doc/pixman",
- "version": "0.34.0"}
+{
+    "description": "Pixman is a low-level software library for pixel manipulation",
+    "license": "GPL",
+    "name": "pixman",
+    "site": "http://pixman.org",
+    "title": "Pixman",
+    "usage": "open /usr/local/share/doc/pixman",
+    "version": "0.34.0"
+}
